@@ -1,0 +1,41 @@
+
+243006_baozha.png
+size: 1406,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/sohouji0001
+  rotate: false
+  xy: 1, 1
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+baozha/sohouji0002
+  rotate: false
+  xy: 282, 1
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+baozha/sohouji0003
+  rotate: false
+  xy: 563, 1
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+baozha/sohouji0004
+  rotate: false
+  xy: 844, 1
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+baozha/sohouji0005
+  rotate: false
+  xy: 1125, 1
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1

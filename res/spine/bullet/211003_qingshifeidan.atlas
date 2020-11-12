@@ -1,0 +1,62 @@
+
+211003_qingshifeidan.png
+size: 221,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/01
+  rotate: false
+  xy: 1, 103
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+images/tx/01
+  rotate: false
+  xy: 1, 69
+  size: 116, 33
+  orig: 116, 33
+  offset: 0, 0
+  index: -1
+images/tx/03
+  rotate: false
+  xy: 70, 119
+  size: 116, 33
+  orig: 116, 33
+  offset: 0, 0
+  index: -1
+images/tx/04
+  rotate: true
+  xy: 187, 36
+  size: 116, 33
+  orig: 116, 33
+  offset: 0, 0
+  index: -1
+images/tx/05
+  rotate: true
+  xy: 118, 2
+  size: 116, 33
+  orig: 116, 33
+  offset: 0, 0
+  index: -1
+images/tx/06
+  rotate: true
+  xy: 152, 2
+  size: 116, 33
+  orig: 116, 33
+  offset: 0, 0
+  index: -1
+images/tx/07
+  rotate: false
+  xy: 1, 35
+  size: 116, 33
+  orig: 116, 33
+  offset: 0, 0
+  index: -1
+images/tx/09
+  rotate: false
+  xy: 1, 1
+  size: 116, 33
+  orig: 116, 33
+  offset: 0, 0
+  index: -1

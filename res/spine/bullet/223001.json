@@ -1,0 +1,101 @@
+{
+"skeleton": { "spine": "1.9.15", "hash": "Illa/lIKWPBLCXWHNZDhKEB0c5c", "width": 456, "height": 288 },
+"bones": [
+	{ "name": "root", "scaleX": 0.4, "scaleY": 0.4 },
+	{ "name": "bone31", "parent": "root", "x": 865.02, "y": 1.75 }
+],
+"ik": [],
+"slots": [
+	{ "name": "jineng/jiguang/jiguang_0043", "bone": "bone31", "attachment": "jineng/jiguang/jiguang_0043" }
+],
+"skins": {
+	"default": {
+		"jineng/jiguang/jiguang_0043": {
+			"jineng/jiguang/jiguang_0043": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0044": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0045": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0046": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0047": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0048": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0049": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0050": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0051": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0052": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0053": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0054": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0055": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0056": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0057": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0058": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0059": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0060": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0061": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 },
+			"jineng/jiguang/jiguang_0062": { "x": 99.13, "y": -7.48, "width": 380, "height": 240 }
+		}
+	}
+},
+"animations": {
+	"start": {
+		"slots": {
+			"jineng/jiguang/jiguang_0043": {
+				"attachment": [
+					{ "time": 0, "name": "jineng/jiguang/jiguang_0043" },
+					{ "time": 0.0333, "name": "jineng/jiguang/jiguang_0044" },
+					{ "time": 0.0666, "name": "jineng/jiguang/jiguang_0045" },
+					{ "time": 0.1, "name": "jineng/jiguang/jiguang_0046" },
+					{ "time": 0.1333, "name": "jineng/jiguang/jiguang_0047" },
+					{ "time": 0.1666, "name": "jineng/jiguang/jiguang_0048" },
+					{ "time": 0.2, "name": "jineng/jiguang/jiguang_0049" },
+					{ "time": 0.2333, "name": "jineng/jiguang/jiguang_0050" },
+					{ "time": 0.2666, "name": "jineng/jiguang/jiguang_0051" },
+					{ "time": 0.3, "name": "jineng/jiguang/jiguang_0052" },
+					{ "time": 0.3333, "name": "jineng/jiguang/jiguang_0053" },
+					{ "time": 0.3666, "name": "jineng/jiguang/jiguang_0054" },
+					{ "time": 0.4, "name": "jineng/jiguang/jiguang_0055" },
+					{ "time": 0.4333, "name": "jineng/jiguang/jiguang_0056" },
+					{ "time": 0.4666, "name": "jineng/jiguang/jiguang_0057" },
+					{ "time": 0.5, "name": "jineng/jiguang/jiguang_0058" },
+					{ "time": 0.5333, "name": "jineng/jiguang/jiguang_0059" },
+					{ "time": 0.5666, "name": "jineng/jiguang/jiguang_0060" },
+					{ "time": 0.6, "name": "jineng/jiguang/jiguang_0061" },
+					{ "time": 0.6333, "name": "jineng/jiguang/jiguang_0062" },
+					{ "time": 0.6666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.2, "y": 1 }
+				]
+			},
+			"bone31": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -866.66, "y": -6.62 },
+					{ "time": 0.0333, "x": -825.94, "y": 1.25 },
+					{ "time": 0.0666, "x": -813.97, "y": -4 },
+					{ "time": 0.1, "x": -766.95, "y": -1.07 },
+					{ "time": 0.1333, "x": -743.04, "y": -11.38 },
+					{ "time": 0.1666, "x": -710.42, "y": -9.5 },
+					{ "time": 0.2, "x": -677.8, "y": -4.99 },
+					{ "time": 0.3, "x": -682.46, "y": -11.74 }
+				],
+				"scale": [
+					{ "time": 0, "x": 3, "y": 3, "curve": "stepped" },
+					{ "time": 0.6666, "x": 3, "y": 3 }
+				]
+			}
+		}
+	}
+}
+}

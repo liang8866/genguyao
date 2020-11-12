@@ -1,0 +1,188 @@
+
+212004_xingmangdun.png
+size: 976,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/b/b0003
+  rotate: false
+  xy: 1, 285
+  size: 187, 189
+  orig: 187, 189
+  offset: 0, 0
+  index: -1
+images/b/b0004
+  rotate: false
+  xy: 1, 95
+  size: 187, 189
+  orig: 187, 189
+  offset: 0, 0
+  index: -1
+images/b/b0005
+  rotate: false
+  xy: 189, 285
+  size: 187, 189
+  orig: 187, 189
+  offset: 0, 0
+  index: -1
+images/b/b0006
+  rotate: false
+  xy: 189, 95
+  size: 187, 189
+  orig: 187, 189
+  offset: 0, 0
+  index: -1
+images/b/b0007
+  rotate: false
+  xy: 377, 285
+  size: 187, 189
+  orig: 187, 189
+  offset: 0, 0
+  index: -1
+images/b/b0008
+  rotate: false
+  xy: 377, 95
+  size: 187, 189
+  orig: 187, 189
+  offset: 0, 0
+  index: -1
+images/b/b0009
+  rotate: false
+  xy: 565, 285
+  size: 187, 189
+  orig: 187, 189
+  offset: 0, 0
+  index: -1
+images/b/b0010
+  rotate: false
+  xy: 565, 95
+  size: 187, 189
+  orig: 187, 189
+  offset: 0, 0
+  index: -1
+images/b/b0011
+  rotate: false
+  xy: 753, 285
+  size: 187, 189
+  orig: 187, 189
+  offset: 0, 0
+  index: -1
+images/bz01
+  rotate: false
+  xy: 684, 54
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+images/bz02
+  rotate: true
+  xy: 941, 421
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+images/bz03
+  rotate: false
+  xy: 1, 6
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+images/bz04
+  rotate: false
+  xy: 947, 83
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+images/tx/00001
+  rotate: false
+  xy: 152, 48
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00002
+  rotate: false
+  xy: 285, 48
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00003
+  rotate: false
+  xy: 418, 48
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00004
+  rotate: false
+  xy: 551, 48
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00005
+  rotate: false
+  xy: 753, 57
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00006
+  rotate: false
+  xy: 152, 1
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00007
+  rotate: false
+  xy: 285, 1
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00008
+  rotate: false
+  xy: 418, 1
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00009
+  rotate: false
+  xy: 551, 1
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/xm01
+  rotate: true
+  xy: 1, 40
+  size: 54, 150
+  orig: 54, 150
+  offset: 0, 0
+  index: -1
+images/xm02
+  rotate: false
+  xy: 886, 4
+  size: 60, 99
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+images/xm03
+  rotate: false
+  xy: 753, 104
+  size: 110, 180
+  orig: 110, 180
+  offset: 0, 0
+  index: -1
+images/xm04
+  rotate: false
+  xy: 864, 104
+  size: 110, 180
+  orig: 110, 180
+  offset: 0, 0
+  index: -1

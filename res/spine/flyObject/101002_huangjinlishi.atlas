@@ -1,0 +1,55 @@
+
+101002_huangjinlishi.png
+size: 336,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo
+  rotate: false
+  xy: 1, 1
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: false
+  xy: 61, 1
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 154, 44
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 279, 48
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1, 38
+  size: 152, 114
+  orig: 152, 114
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 168, 2
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 117, 2
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+221004_baozha.png
+size: 971,643
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/baozha01/5
+  rotate: true
+  xy: 1, 322
+  size: 320, 203
+  orig: 320, 203
+  offset: 0, 0
+  index: -1
+images/baozha01/6
+  rotate: true
+  xy: 1, 1
+  size: 320, 203
+  orig: 320, 203
+  offset: 0, 0
+  index: -1
+images/baozha01/7
+  rotate: true
+  xy: 205, 322
+  size: 320, 203
+  orig: 320, 203
+  offset: 0, 0
+  index: -1
+images/baozha01/8
+  rotate: true
+  xy: 205, 1
+  size: 320, 203
+  orig: 320, 203
+  offset: 0, 0
+  index: -1
+images/baozha02/01
+  rotate: false
+  xy: 409, 362
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/baozha02/02
+  rotate: false
+  xy: 690, 362
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/baozha02/03
+  rotate: false
+  xy: 409, 81
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/baozha02/09
+  rotate: false
+  xy: 690, 81
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1

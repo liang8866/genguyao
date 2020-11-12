@@ -1,0 +1,60 @@
+{
+"skeleton": { "spine": "1.9.15", "hash": "B1kMNMH3CD4RwGFM0O4NDM74Qak", "width": 104.76, "height": 68.34 },
+"bones": [
+	{ "name": "root", "x": -34.69, "y": 2.62, "scaleX": 0.5, "scaleY": 0.5, "rotation": 85.09 }
+],
+"ik": [],
+"slots": [
+	{ "name": "images/huoqiu0001", "bone": "root", "attachment": "images/huoqiu0001" }
+],
+"skins": {
+	"default": {
+		"images/huoqiu0001": {
+			"images/huoqiu0001": { "width": 120, "height": 200 },
+			"images/huoqiu0002": { "width": 120, "height": 200 },
+			"images/huoqiu0003": { "width": 120, "height": 200 },
+			"images/huoqiu0004": { "width": 120, "height": 200 },
+			"images/huoqiu0005": { "width": 120, "height": 200 },
+			"images/huoqiu0006": { "width": 120, "height": 200 },
+			"images/huoqiu0007": { "width": 120, "height": 200 },
+			"images/huoqiu0008": { "width": 120, "height": 200 },
+			"images/huoqiu0009": { "width": 120, "height": 200 },
+			"images/huoqiu0010": { "width": 120, "height": 200 }
+		}
+	}
+},
+"animations": {
+	"flight": {
+		"slots": {
+			"images/huoqiu0001": {
+				"attachment": [
+					{ "time": 0, "name": "images/huoqiu0001" },
+					{ "time": 0.0333, "name": "images/huoqiu0002" },
+					{ "time": 0.0666, "name": "images/huoqiu0003" },
+					{ "time": 0.1, "name": "images/huoqiu0004" },
+					{ "time": 0.1333, "name": "images/huoqiu0005" },
+					{ "time": 0.1666, "name": "images/huoqiu0006" },
+					{ "time": 0.2, "name": "images/huoqiu0007" },
+					{ "time": 0.2333, "name": "images/huoqiu0008" },
+					{ "time": 0.2666, "name": "images/huoqiu0009" },
+					{ "time": 0.3, "name": "images/huoqiu0010" },
+					{ "time": 0.3333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

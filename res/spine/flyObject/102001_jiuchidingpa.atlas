@@ -1,0 +1,223 @@
+
+102001_jiuchidingpa.png
+size: 944,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci
+  rotate: true
+  xy: 148, 11
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+ci1
+  rotate: false
+  xy: 211, 10
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+ci2
+  rotate: false
+  xy: 245, 16
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+ci3
+  rotate: false
+  xy: 73, 3
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+ci4
+  rotate: false
+  xy: 107, 7
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+jineng/baozha/baozha_00021
+  rotate: false
+  xy: 1, 48
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+jineng/baozha/baozha_00022
+  rotate: false
+  xy: 150, 349
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+jineng/baozha/baozha_00023
+  rotate: false
+  xy: 156, 70
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+jineng/baozha/baozha_00024
+  rotate: false
+  xy: 305, 349
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+jineng/baozha/baozha_00025
+  rotate: false
+  xy: 311, 70
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+jineng/guiji/guiji_00020
+  rotate: false
+  xy: 460, 356
+  size: 105, 147
+  orig: 105, 147
+  offset: 0, 0
+  index: -1
+jineng/guiji/guiji_00021
+  rotate: false
+  xy: 466, 77
+  size: 105, 147
+  orig: 105, 147
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00002
+  rotate: false
+  xy: 150, 225
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00003
+  rotate: false
+  xy: 274, 225
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00004
+  rotate: false
+  xy: 398, 225
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00005
+  rotate: false
+  xy: 522, 232
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00006
+  rotate: false
+  xy: 566, 380
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00007
+  rotate: false
+  xy: 572, 108
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00008
+  rotate: false
+  xy: 646, 256
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00009
+  rotate: false
+  xy: 690, 380
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00014
+  rotate: false
+  xy: 690, 380
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00010
+  rotate: false
+  xy: 814, 380
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00011
+  rotate: false
+  xy: 770, 256
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00012
+  rotate: false
+  xy: 696, 132
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00013
+  rotate: false
+  xy: 696, 8
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+jineng/juqi/juqi_00015
+  rotate: false
+  xy: 820, 132
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 1, 203
+  size: 300, 148
+  orig: 300, 148
+  offset: 0, 0
+  index: -1
+wei
+  rotate: true
+  xy: 31, 1
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+wei2
+  rotate: true
+  xy: 67, 1
+  size: 46, 5
+  orig: 46, 5
+  offset: 0, 0
+  index: -1
+wei3
+  rotate: true
+  xy: 49, 1
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+wei4
+  rotate: true
+  xy: 1, 1
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1

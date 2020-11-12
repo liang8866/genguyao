@@ -1,0 +1,34 @@
+
+230401_mabi_feibao.png
+size: 810,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shandianc/sdc_00000
+  rotate: false
+  xy: 2, 2
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+images/shandianc/sdc_00001
+  rotate: false
+  xy: 204, 2
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+images/shandianc/sdc_00002
+  rotate: false
+  xy: 406, 2
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+images/shandianc/sdc_00009
+  rotate: false
+  xy: 608, 2
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,53 @@
+{
+"skeleton": { "hash": "22MLe8X8giPL2iwCji8fSYYwZkg", "spine": "2.1.01", "width": 151.99, "height": 151.99, "images": "images" },
+"bones": [
+	{ "name": "root", "scaleX": 0.4, "scaleY": 0.4 },
+	{ "name": "bone36", "parent": "root", "x": 2520.67, "y": 15.77 }
+],
+"slots": [
+	{ "name": "baoza/baozha_0032", "bone": "bone36" }
+],
+"skins": {
+	"default": {
+		"baoza/baozha_0032": {
+			"baoza/baozha_0032": { "x": -19.44, "y": 23.47, "width": 380, "height": 380 },
+			"baoza/baozha_0033": { "x": -19.44, "y": 23.47, "width": 380, "height": 380 },
+			"baoza/baozha_0034": { "x": -19.44, "y": 23.47, "width": 380, "height": 380 },
+			"baoza/baozha_0035": { "x": -19.44, "y": 23.47, "width": 380, "height": 380 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"baoza/baozha_0032": {
+				"attachment": [
+					{ "time": 0, "name": "baoza/baozha_0032" },
+					{ "time": 0.0333, "name": "baoza/baozha_0033" },
+					{ "time": 0.0666, "name": "baoza/baozha_0034" },
+					{ "time": 0.1, "name": "baoza/baozha_0035" },
+					{ "time": 0.1333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999 }
+				]
+			},
+			"bone36": {
+				"translate": [
+					{ "time": 0, "x": -2521.47, "y": -26.5 }
+				]
+			}
+		}
+	}
+}
+}

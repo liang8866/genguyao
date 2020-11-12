@@ -1,0 +1,41 @@
+
+242009_baoza.png
+size: 694,451
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian/baodian_00024
+  rotate: false
+  xy: 1, 226
+  size: 230, 224
+  orig: 230, 224
+  offset: 0, 0
+  index: -1
+baodian/baodian_00025
+  rotate: false
+  xy: 1, 1
+  size: 230, 224
+  orig: 230, 224
+  offset: 0, 0
+  index: -1
+baodian/baodian_00026
+  rotate: false
+  xy: 232, 226
+  size: 230, 224
+  orig: 230, 224
+  offset: 0, 0
+  index: -1
+baodian/baodian_00027
+  rotate: false
+  xy: 232, 1
+  size: 230, 224
+  orig: 230, 224
+  offset: 0, 0
+  index: -1
+baodian/baodian_00028
+  rotate: false
+  xy: 463, 226
+  size: 230, 224
+  orig: 230, 224
+  offset: 0, 0
+  index: -1

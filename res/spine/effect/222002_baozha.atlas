@@ -1,0 +1,41 @@
+
+222002_baozha.png
+size: 715,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jineng/baozha/baozha_00021
+  rotate: true
+  xy: 492, 38
+  size: 135, 129
+  orig: 176, 176
+  offset: 22, 24
+  index: -1
+jineng/baozha/baozha_00022
+  rotate: true
+  xy: 2, 2
+  size: 171, 163
+  orig: 176, 176
+  offset: 4, 7
+  index: -1
+jineng/baozha/baozha_00023
+  rotate: true
+  xy: 331, 10
+  size: 163, 159
+  orig: 176, 176
+  offset: 8, 7
+  index: -1
+jineng/baozha/baozha_00024
+  rotate: true
+  xy: 167, 8
+  size: 165, 162
+  orig: 176, 176
+  offset: 7, 6
+  index: -1
+jineng/baozha/baozha_00025
+  rotate: false
+  xy: 623, 83
+  size: 92, 90
+  orig: 176, 176
+  offset: 45, 46
+  index: -1

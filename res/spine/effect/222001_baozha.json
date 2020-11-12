@@ -1,0 +1,65 @@
+{
+"skeleton": { "hash": "b3Wgnjrww55qVNYnTCfWuG4k9BE", "spine": "2.1.01", "width": 525.42, "height": 550.4, "images": "images" },
+"bones": [
+	{ "name": "root", "x": 2.09, "y": -136.36, "scaleX": 0.3, "scaleY": 0.3 },
+	{ "name": "bone15", "parent": "root", "length": 600.69, "x": -3074.03, "y": 21.42, "rotation": 89.09 }
+],
+"slots": [
+	{ "name": "jineng/jinengbaozha/baodian_00024", "bone": "bone15", "attachment": "jineng/jinengbaozha/baodian_00024" }
+],
+"skins": {
+	"default": {
+		"jineng/jinengbaozha/baodian_00024": {
+			"jineng/jinengbaozha/baodian_00024": { "x": 282.78, "y": -9.63, "rotation": -89.09, "width": 500, "height": 550 },
+			"jineng/jinengbaozha/baodian_00025": { "x": 282.78, "y": -9.63, "rotation": -89.09, "width": 500, "height": 550 },
+			"jineng/jinengbaozha/baodian_00026": { "x": 282.78, "y": -9.63, "rotation": -89.09, "width": 500, "height": 550 },
+			"jineng/jinengbaozha/baodian_00027": { "x": 282.78, "y": -9.63, "rotation": -89.09, "width": 500, "height": 550 },
+			"jineng/jinengbaozha/baodian_00028": { "x": 282.78, "y": -9.63, "rotation": -89.09, "width": 500, "height": 550 },
+			"jineng/jinengbaozha/baodian_00029": { "x": 282.78, "y": -9.63, "rotation": -89.09, "width": 500, "height": 550 },
+			"jineng/jinengbaozha/baodian_00030": { "x": 282.78, "y": -9.63, "rotation": -89.09, "width": 500, "height": 550 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"jineng/jinengbaozha/baodian_00024": {
+				"attachment": [
+					{ "time": 0, "name": "jineng/jinengbaozha/baodian_00024" },
+					{ "time": 0.0666, "name": "jineng/jinengbaozha/baodian_00025" },
+					{ "time": 0.1333, "name": "jineng/jinengbaozha/baodian_00026" },
+					{ "time": 0.2, "name": "jineng/jinengbaozha/baodian_00027" },
+					{ "time": 0.2666, "name": "jineng/jinengbaozha/baodian_00028" },
+					{ "time": 0.3333, "name": "jineng/jinengbaozha/baodian_00029" },
+					{ "time": 0.4, "name": "jineng/jinengbaozha/baodian_00030" },
+					{ "time": 0.4666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -6, "y": 44.53 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.889, "y": 0.999 }
+				]
+			},
+			"bone15": {
+				"translate": [
+					{ "time": 0, "x": 3070.75, "y": -626.48 }
+				],
+				"scale": [
+					{ "time": 0, "x": 3.745, "y": 3.5 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0 }
+		]
+	}
+}
+}

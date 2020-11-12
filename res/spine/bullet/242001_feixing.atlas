@@ -1,0 +1,83 @@
+
+242001_feixing.png
+size: 549,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/lizi0001
+  rotate: true
+  xy: 1, 1
+  size: 195, 60
+  orig: 195, 60
+  offset: 0, 0
+  index: -1
+lizi/lizi0002
+  rotate: true
+  xy: 62, 1
+  size: 195, 60
+  orig: 195, 60
+  offset: 0, 0
+  index: -1
+lizi/lizi0003
+  rotate: true
+  xy: 123, 1
+  size: 195, 60
+  orig: 195, 60
+  offset: 0, 0
+  index: -1
+lizi/lizi0004
+  rotate: true
+  xy: 184, 1
+  size: 195, 60
+  orig: 195, 60
+  offset: 0, 0
+  index: -1
+lizi/lizi0005
+  rotate: true
+  xy: 245, 1
+  size: 195, 60
+  orig: 195, 60
+  offset: 0, 0
+  index: -1
+lizi/lizi0006
+  rotate: true
+  xy: 306, 1
+  size: 195, 60
+  orig: 195, 60
+  offset: 0, 0
+  index: -1
+qiu/qiu8
+  rotate: false
+  xy: 478, 15
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tuowei/tuowei0001
+  rotate: false
+  xy: 367, 136
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+tuowei/tuowei0002
+  rotate: true
+  xy: 478, 86
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+tuowei/tuowei0003
+  rotate: false
+  xy: 367, 75
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+tuowei/tuowei0004
+  rotate: false
+  xy: 367, 14
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1

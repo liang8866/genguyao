@@ -1,0 +1,166 @@
+
+baozha_tongyong.png
+size: 853,877
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoza/10004
+  rotate: false
+  xy: 1, 620
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10005
+  rotate: false
+  xy: 1, 363
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10007
+  rotate: false
+  xy: 258, 620
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10009
+  rotate: false
+  xy: 1, 106
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10011
+  rotate: false
+  xy: 258, 363
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10013
+  rotate: false
+  xy: 515, 620
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10015
+  rotate: false
+  xy: 258, 106
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10017
+  rotate: false
+  xy: 515, 363
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10019
+  rotate: false
+  xy: 515, 106
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+jinqikou1
+  rotate: true
+  xy: 772, 692
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+jinqikou2
+  rotate: false
+  xy: 1, 1
+  size: 87, 54
+  orig: 87, 54
+  offset: 0, 0
+  index: -1
+jiti
+  rotate: false
+  xy: 1, 56
+  size: 157, 49
+  orig: 157, 49
+  offset: 0, 0
+  index: -1
+jiwei
+  rotate: false
+  xy: 772, 777
+  size: 80, 99
+  orig: 80, 99
+  offset: 0, 0
+  index: -1
+
+baozha_tongyong2.png
+size: 772,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoza/10021
+  rotate: false
+  xy: 1, 515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10022
+  rotate: false
+  xy: 1, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10023
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10024
+  rotate: false
+  xy: 258, 515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10025
+  rotate: false
+  xy: 515, 515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10026
+  rotate: false
+  xy: 258, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10027
+  rotate: false
+  xy: 258, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10029
+  rotate: false
+  xy: 515, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baoza/10031
+  rotate: false
+  xy: 515, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

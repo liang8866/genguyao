@@ -1,0 +1,83 @@
+
+412015_xianyuan.png
+size: 254,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biao
+  rotate: false
+  xy: 80, 47
+  size: 105, 68
+  orig: 105, 68
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 234, 14
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 130, 12
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 208, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+shou001
+  rotate: false
+  xy: 229, 45
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+shou002
+  rotate: false
+  xy: 186, 73
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1, 10
+  size: 78, 105
+  orig: 78, 105
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 186, 33
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 178, 1
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+weinba
+  rotate: true
+  xy: 80, 11
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+zhengyan
+  rotate: true
+  xy: 233, 84
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+411003_gaocuilan.png
+size: 204,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi3
+  rotate: false
+  xy: 124, 48
+  size: 35, 92
+  orig: 35, 92
+  offset: 0, 0
+  index: -1
+biazni1
+  rotate: false
+  xy: 1, 35
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 55, 43
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+houqun
+  rotate: false
+  xy: 160, 80
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+qun
+  rotate: true
+  xy: 164, 8
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 160, 118
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 184, 30
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 195, 65
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+shou3
+  rotate: false
+  xy: 160, 100
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+shou4
+  rotate: true
+  xy: 195, 81
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 55, 68
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 61, 31
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 92, 15
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 1, 1
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+yanwu/yanwu013
+  rotate: true
+  xy: 29, 4
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu014
+  rotate: false
+  xy: 91, 52
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu015
+  rotate: false
+  xy: 160, 64
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu016
+  rotate: false
+  xy: 160, 48
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu017
+  rotate: true
+  xy: 45, 4
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu018
+  rotate: false
+  xy: 91, 36
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu019
+  rotate: false
+  xy: 61, 15
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu020
+  rotate: false
+  xy: 122, 32
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu021
+  rotate: false
+  xy: 153, 32
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu022
+  rotate: true
+  xy: 116, 1
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu023
+  rotate: true
+  xy: 132, 1
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+yanwu/yanwu024
+  rotate: true
+  xy: 148, 1
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1

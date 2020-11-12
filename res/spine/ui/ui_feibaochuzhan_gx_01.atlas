@@ -1,0 +1,27 @@
+
+ui_feibaochuzhan_gx_01.png
+size: 333,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gx02
+  rotate: false
+  xy: 1, 1
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+images/gx03
+  rotate: false
+  xy: 123, 5
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+images/gx04
+  rotate: true
+  xy: 241, 25
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1

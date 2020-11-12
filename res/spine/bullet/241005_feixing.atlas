@@ -1,0 +1,76 @@
+
+241005_feixing.png
+size: 470,346
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feixing/feixing0001
+  rotate: true
+  xy: 406, 72
+  size: 74, 41
+  orig: 105, 45
+  offset: 29, 2
+  index: -1
+feixing/feixing0002
+  rotate: false
+  xy: 365, 16
+  size: 71, 42
+  orig: 105, 45
+  offset: 31, 2
+  index: -1
+feixing/feixing0003
+  rotate: false
+  xy: 365, 147
+  size: 86, 41
+  orig: 105, 45
+  offset: 17, 2
+  index: -1
+feixing/feixing0004
+  rotate: true
+  xy: 365, 59
+  size: 87, 40
+  orig: 105, 45
+  offset: 16, 4
+  index: -1
+feixing/feixing0005
+  rotate: false
+  xy: 365, 268
+  size: 98, 38
+  orig: 105, 45
+  offset: 5, 5
+  index: -1
+feixing/feixing0006
+  rotate: false
+  xy: 365, 307
+  size: 104, 38
+  orig: 105, 45
+  offset: 0, 5
+  index: -1
+feixing/feixing0007
+  rotate: false
+  xy: 365, 229
+  size: 96, 38
+  orig: 105, 45
+  offset: 8, 5
+  index: -1
+feixing/feixing0008
+  rotate: false
+  xy: 365, 189
+  size: 89, 39
+  orig: 105, 45
+  offset: 15, 4
+  index: -1
+guodu/guodu
+  rotate: false
+  xy: 437, 31
+  size: 32, 40
+  orig: 32, 43
+  offset: 0, 1
+  index: -1
+yan/kuloutou
+  rotate: true
+  xy: 1, 1
+  size: 344, 363
+  orig: 375, 375
+  offset: 7, 1
+  index: -1

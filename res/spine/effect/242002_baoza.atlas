@@ -1,0 +1,76 @@
+
+242002_baoza.png
+size: 442,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha024
+  rotate: false
+  xy: 404, 12
+  size: 38, 35
+  orig: 50, 50
+  offset: 2, 7
+  index: -1
+baozha/baozha025
+  rotate: true
+  xy: 324, 5
+  size: 42, 38
+  orig: 50, 50
+  offset: 3, 5
+  index: -1
+baozha/baozha026
+  rotate: true
+  xy: 364, 7
+  size: 40, 38
+  orig: 50, 50
+  offset: 5, 5
+  index: -1
+baozha/baozha027
+  rotate: true
+  xy: 242, 5
+  size: 42, 39
+  orig: 50, 50
+  offset: 4, 5
+  index: -1
+baozha/baozha028
+  rotate: true
+  xy: 283, 5
+  size: 42, 39
+  orig: 50, 50
+  offset: 4, 5
+  index: -1
+baozha/baozha029
+  rotate: true
+  xy: 154, 2
+  size: 45, 42
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+baozha/baozha030
+  rotate: true
+  xy: 198, 2
+  size: 45, 42
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+baozha/baozha031
+  rotate: false
+  xy: 2, 2
+  size: 49, 45
+  orig: 50, 50
+  offset: 1, 2
+  index: -1
+baozha/baozha032
+  rotate: false
+  xy: 53, 2
+  size: 49, 45
+  orig: 50, 50
+  offset: 1, 2
+  index: -1
+baozha/baozha033
+  rotate: false
+  xy: 104, 2
+  size: 48, 45
+  orig: 50, 50
+  offset: 1, 2
+  index: -1

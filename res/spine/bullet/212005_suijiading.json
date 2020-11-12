@@ -1,0 +1,37 @@
+{
+"skeleton": { "spine": "1.9.15", "hash": "6fLhaTiQcj5d4KfiwdMbyPh6s84", "width": 70.19, "height": 21.59 },
+"bones": [
+	{ "name": "root", "scaleX": 0.9, "scaleY": 0.9 }
+],
+"ik": [],
+"slots": [
+	{ "name": "images/tx01/01", "bone": "root", "attachment": "images/tx01/01" }
+],
+"skins": {
+	"default": {
+		"images/tx01/01": {
+			"images/tx01/01": { "x": -26.72, "y": -2.3, "width": 78, "height": 24 }
+		}
+	}
+},
+"animations": {
+	"flight": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0.999, "y": 0.999 }
+				]
+			}
+		}
+	}
+}
+}

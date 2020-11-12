@@ -1,0 +1,97 @@
+
+ui_feibaolianzhi_liuguang.png
+size: 288,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/liuguang/lg0002
+  rotate: false
+  xy: 1, 1
+  size: 68, 2
+  orig: 74, 73
+  offset: 3, 71
+  index: -1
+images/liuguang/lg0003
+  rotate: false
+  xy: 76, 4
+  size: 74, 11
+  orig: 74, 73
+  offset: 0, 62
+  index: -1
+images/liuguang/lg0004
+  rotate: false
+  xy: 76, 16
+  size: 74, 20
+  orig: 74, 73
+  offset: 0, 53
+  index: -1
+images/liuguang/lg0005
+  rotate: true
+  xy: 226, 3
+  size: 74, 29
+  orig: 74, 73
+  offset: 0, 44
+  index: -1
+images/liuguang/lg0006
+  rotate: false
+  xy: 151, 39
+  size: 74, 38
+  orig: 74, 73
+  offset: 0, 35
+  index: -1
+images/liuguang/lg0007
+  rotate: false
+  xy: 1, 37
+  size: 74, 40
+  orig: 74, 73
+  offset: 0, 25
+  index: -1
+images/liuguang/lg0008
+  rotate: false
+  xy: 1, 37
+  size: 74, 40
+  orig: 74, 73
+  offset: 0, 16
+  index: -1
+images/liuguang/lg0009
+  rotate: false
+  xy: 76, 37
+  size: 74, 40
+  orig: 74, 73
+  offset: 0, 7
+  index: -1
+images/liuguang/lg0010
+  rotate: false
+  xy: 151, 1
+  size: 74, 37
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+images/liuguang/lg0011
+  rotate: false
+  xy: 1, 8
+  size: 74, 28
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+images/liuguang/lg0012
+  rotate: true
+  xy: 256, 3
+  size: 74, 19
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+images/liuguang/lg0013
+  rotate: true
+  xy: 276, 3
+  size: 74, 10
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+images/liuguang/lg0014
+  rotate: true
+  xy: 287, 10
+  size: 67, 1
+  orig: 74, 73
+  offset: 3, 0
+  index: -1

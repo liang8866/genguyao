@@ -1,0 +1,25 @@
+StaticData.Track = {
+--Id="ID",Name="追踪地点",BigMap="大地图",Dress="坐标",
+[1]={ Id=1, Name="仙桃村", BigMap="611001", Dress="1686*936"}, 
+[2]={ Id=2, Name="江都", BigMap="611001", Dress="1295*823"}, 
+[3]={ Id=3, Name="金山寺", BigMap="611001", Dress="1887*648"}, 
+[4]={ Id=4, Name="流沙河", BigMap="611001", Dress="896*816"}, 
+[5]={ Id=5, Name="高老庄", BigMap="611001", Dress="1200*501"}, 
+[6]={ Id=6, Name="女儿国", BigMap="611001", Dress="575*648"}, 
+[7]={ Id=7, Name="火焰山", BigMap="611001", Dress="644*231"}, 
+[8]={ Id=8, Name="通天河", BigMap="611001", Dress="268*184"}, 
+[9]={ Id=9, Name="平顶山", BigMap="611001", Dress="207*881"}, 
+[10]={ Id=10, Name="无底洞", BigMap="611001", Dress="652*995"}, 
+[11]={ Id=11, Name="白龙涧", BigMap="611001", Dress="1565*381"}, 
+[12]={ Id=12, Name="蓬莱仙岛", BigMap="611002", Dress="256*978"}, 
+[13]={ Id=13, Name="傲来国", BigMap="611002", Dress="341*590"}, 
+[14]={ Id=14, Name="花果山", BigMap="611002", Dress="664*209"}, 
+[15]={ Id=15, Name="斜月三星洞", BigMap="611002", Dress="673*963"}, 
+[16]={ Id=16, Name="五庄观", BigMap="611002", Dress="832*665"}, 
+[17]={ Id=17, Name="翠云宫", BigMap="611002", Dress="1106*888"}, 
+[18]={ Id=18, Name="海市蜃楼", BigMap="611002", Dress="1302*614"}, 
+[19]={ Id=19, Name="金光洞", BigMap="611002", Dress="1391*219"}, 
+[20]={ Id=20, Name="月宫", BigMap="611002", Dress="1845*759"}, 
+[21]={ Id=21, Name="瀛洲", BigMap="611002", Dress="1728*381"}
+}
+

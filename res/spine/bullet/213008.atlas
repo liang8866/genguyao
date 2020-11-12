@@ -1,0 +1,69 @@
+
+213008.png
+size: 184,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongji/zidan/zidan018
+  rotate: false
+  xy: 1, 59
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+gongji/zidan/zidan019
+  rotate: false
+  xy: 1, 30
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+gongji/zidan/zidan020
+  rotate: false
+  xy: 1, 1
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+gongji/zidan/zidan021
+  rotate: false
+  xy: 62, 59
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+gongji/zidan/zidan022
+  rotate: false
+  xy: 62, 30
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+gongji/zidan/zidan023
+  rotate: false
+  xy: 62, 1
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+gongji/zidan/zidan024
+  rotate: false
+  xy: 123, 59
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+gongji/zidan/zidan025
+  rotate: false
+  xy: 123, 30
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+gongji/zidan/zidan026
+  rotate: false
+  xy: 123, 1
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1

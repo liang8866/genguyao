@@ -1,0 +1,55 @@
+
+212001_huoyanzhu.png
+size: 571,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/02/00001
+  rotate: false
+  xy: 1, 83
+  size: 162, 80
+  orig: 162, 80
+  offset: 0, 0
+  index: -1
+images/02/00003
+  rotate: false
+  xy: 1, 2
+  size: 162, 80
+  orig: 162, 80
+  offset: 0, 0
+  index: -1
+images/02/00005
+  rotate: false
+  xy: 164, 83
+  size: 162, 80
+  orig: 162, 80
+  offset: 0, 0
+  index: -1
+images/02/00007
+  rotate: false
+  xy: 164, 2
+  size: 162, 80
+  orig: 162, 80
+  offset: 0, 0
+  index: -1
+images/02/00009
+  rotate: false
+  xy: 327, 83
+  size: 162, 80
+  orig: 162, 80
+  offset: 0, 0
+  index: -1
+images/02/00011
+  rotate: false
+  xy: 327, 2
+  size: 162, 80
+  orig: 162, 80
+  offset: 0, 0
+  index: -1
+images/02/00013
+  rotate: true
+  xy: 490, 1
+  size: 162, 80
+  orig: 162, 80
+  offset: 0, 0
+  index: -1

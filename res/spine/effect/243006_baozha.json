@@ -1,0 +1,96 @@
+{
+"skeleton": { "hash": "XtW7QbPRIFUcsXTUZ8AtbUmfmz8", "spine": "2.1.01", "width": 0, "height": 0, "images": "images" },
+"bones": [
+	{ "name": "root", "scaleX": 0.75, "scaleY": 0.75 },
+	{ "name": "bone28", "parent": "root", "length": 21.03, "x": 238.11, "y": 62.92, "rotation": 90.9 },
+	{ "name": "bone29", "parent": "root", "length": 21.03, "x": 238.11, "y": 62.92, "rotation": 90.9 }
+],
+"slots": [
+	{ "name": "baozha/sohouji12", "bone": "bone29" },
+	{ "name": "baozha/sohouji00012", "bone": "bone28" }
+],
+"skins": {
+	"default": {
+		"baozha/sohouji00012": {
+			"baozha/sohouji0001": { "x": 6.29, "y": 5.15, "rotation": -90.9, "width": 280, "height": 280 },
+			"baozha/sohouji0002": { "x": 6.29, "y": 5.15, "rotation": -90.9, "width": 280, "height": 280 },
+			"baozha/sohouji0003": { "x": 6.29, "y": 5.15, "rotation": -90.9, "width": 280, "height": 280 },
+			"baozha/sohouji0004": { "x": 6.29, "y": 5.15, "rotation": -90.9, "width": 280, "height": 280 },
+			"baozha/sohouji0005": { "x": 6.29, "y": 5.15, "rotation": -90.9, "width": 280, "height": 280 }
+		},
+		"baozha/sohouji12": {
+			"baozha/sohouji0001": { "x": 6.29, "y": 5.15, "rotation": -90.9, "width": 280, "height": 280 },
+			"baozha/sohouji0002": { "x": 6.29, "y": 5.15, "rotation": -90.9, "width": 280, "height": 280 },
+			"baozha/sohouji0003": { "x": 6.29, "y": 5.15, "rotation": -90.9, "width": 280, "height": 280 },
+			"baozha/sohouji0004": { "x": 6.29, "y": 5.15, "rotation": -90.9, "width": 280, "height": 280 },
+			"baozha/sohouji0005": { "x": 6.29, "y": 5.15, "rotation": -90.9, "width": 280, "height": 280 }
+		}
+	}
+},
+"events": {
+	"callback": {}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"baozha/sohouji00012": {
+				"attachment": [
+					{ "time": 0, "name": "baozha/sohouji0001" },
+					{ "time": 0.1, "name": "baozha/sohouji0002" },
+					{ "time": 0.2, "name": "baozha/sohouji0003" },
+					{ "time": 0.3, "name": "baozha/sohouji0004" },
+					{ "time": 0.4, "name": "baozha/sohouji0005" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"baozha/sohouji12": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "baozha/sohouji0001" },
+					{ "time": 0.1333, "name": "baozha/sohouji0002" },
+					{ "time": 0.2, "name": "baozha/sohouji0003" },
+					{ "time": 0.2666, "name": "baozha/sohouji0004" },
+					{ "time": 0.3333, "name": "baozha/sohouji0005" },
+					{ "time": 0.4, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone28": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -235.79, "y": -65.23 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.57, "y": 0.57 },
+					{ "time": 0.5, "x": 2, "y": 2 }
+				]
+			},
+			"bone29": {
+				"rotate": [
+					{ "time": 0.0666, "angle": -66.06 }
+				],
+				"translate": [
+					{ "time": 0.0666, "x": -238.11, "y": -62.92 }
+				],
+				"scale": [
+					{ "time": 0.0666, "x": 0.623, "y": 0.623 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,41 @@
+
+222003_baozha.png
+size: 806,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+matk/baohza/baodian_00021
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+matk/baohza/baodian_00022
+  rotate: false
+  xy: 162, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+matk/baohza/baodian_00023
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+matk/baohza/baodian_00024
+  rotate: false
+  xy: 484, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+matk/baohza/baodian_00025
+  rotate: false
+  xy: 645, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

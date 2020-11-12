@@ -1,0 +1,83 @@
+
+213001_chaoyinbo.png
+size: 767,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx01/00001
+  rotate: false
+  xy: 1, 126
+  size: 133, 162
+  orig: 137, 162
+  offset: 0, 0
+  index: -1
+images/tx01/00002
+  rotate: false
+  xy: 513, 130
+  size: 126, 158
+  orig: 137, 162
+  offset: 11, 0
+  index: -1
+images/tx01/00003
+  rotate: true
+  xy: 427, 1
+  size: 127, 145
+  orig: 137, 162
+  offset: 10, 12
+  index: -1
+images/tx01/00004
+  rotate: false
+  xy: 387, 129
+  size: 125, 159
+  orig: 137, 162
+  offset: 12, 0
+  index: -1
+images/tx01/00005
+  rotate: true
+  xy: 1, 1
+  size: 124, 158
+  orig: 137, 162
+  offset: 13, 0
+  index: -1
+images/tx01/00006
+  rotate: true
+  xy: 160, 2
+  size: 123, 159
+  orig: 137, 162
+  offset: 14, 0
+  index: -1
+images/tx01/00007
+  rotate: false
+  xy: 264, 126
+  size: 122, 162
+  orig: 137, 162
+  offset: 15, 0
+  index: -1
+images/tx01/00008
+  rotate: false
+  xy: 135, 126
+  size: 128, 162
+  orig: 137, 162
+  offset: 0, 0
+  index: -1
+images/tx01/00009
+  rotate: true
+  xy: 573, 3
+  size: 126, 158
+  orig: 137, 162
+  offset: 11, 0
+  index: -1
+images/tx01/00010
+  rotate: false
+  xy: 640, 143
+  size: 127, 145
+  orig: 137, 162
+  offset: 10, 12
+  index: -1
+images/tx01/t
+  rotate: true
+  xy: 320, 17
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1

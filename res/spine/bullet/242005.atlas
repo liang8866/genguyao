@@ -1,0 +1,153 @@
+
+242005.png
+size: 276,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongji/000
+  rotate: true
+  xy: 1, 27
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1
+gongji/001
+  rotate: true
+  xy: 26, 27
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1
+gongji/002
+  rotate: false
+  xy: 31, 2
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1
+gongji/003
+  rotate: true
+  xy: 51, 27
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1
+gongji/004
+  rotate: true
+  xy: 76, 27
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1
+gongji/005
+  rotate: true
+  xy: 101, 27
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1
+gongji/006
+  rotate: false
+  xy: 122, 2
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1
+gongji/007
+  rotate: true
+  xy: 126, 27
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1
+gongji/008
+  rotate: true
+  xy: 151, 27
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1
+gongji/009
+  rotate: true
+  xy: 176, 27
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 1, 1
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+kaishi/kaishi058
+  rotate: false
+  xy: 213, 96
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+kaishi/kaishi059
+  rotate: false
+  xy: 244, 96
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+kaishi/kaishi060
+  rotate: true
+  xy: 201, 65
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+kaishi/kaishi061
+  rotate: true
+  xy: 201, 34
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+kaishi/kaishi062
+  rotate: true
+  xy: 213, 3
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+kaishi/kaishi063
+  rotate: false
+  xy: 235, 74
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+kaishi/kaishi064
+  rotate: true
+  xy: 223, 43
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+kaishi/kaishi065
+  rotate: false
+  xy: 245, 52
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+kaishi/kaishi066
+  rotate: false
+  xy: 245, 30
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+kaishi/kaishi067
+  rotate: false
+  xy: 235, 8
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

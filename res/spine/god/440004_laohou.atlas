@@ -1,0 +1,13 @@
+
+440004_laohou.png
+size: 112,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/440004
+  rotate: false
+  xy: 2, 2
+  size: 108, 152
+  orig: 108, 152
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+230501_xuanyun_feibao.png
+size: 196,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/image 1
+  rotate: true
+  xy: 2, 88
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+image/image 2
+  rotate: true
+  xy: 2, 2
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+image/image 3
+  rotate: true
+  xy: 60, 2
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+image/image 4
+  rotate: true
+  xy: 117, 6
+  size: 82, 59
+  orig: 82, 59
+  offset: 0, 0
+  index: -1
+image/image 5
+  rotate: true
+  xy: 129, 91
+  size: 82, 65
+  orig: 82, 65
+  offset: 0, 0
+  index: -1
+image/image 6
+  rotate: true
+  xy: 61, 90
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+ui_jiaodiyun.png
+size: 235,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/01
+  rotate: false
+  xy: 1, 1
+  size: 137, 63
+  orig: 137, 63
+  offset: 0, 0
+  index: -1
+images/02
+  rotate: false
+  xy: 139, 19
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1

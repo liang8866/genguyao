@@ -1,0 +1,48 @@
+
+212001_huoyanzhu_baozha.png
+size: 979,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bz/b0001
+  rotate: true
+  xy: 1, 1
+  size: 169, 162
+  orig: 169, 162
+  offset: 0, 0
+  index: -1
+images/bz/b0003
+  rotate: true
+  xy: 164, 1
+  size: 169, 162
+  orig: 169, 162
+  offset: 0, 0
+  index: -1
+images/bz/b0005
+  rotate: true
+  xy: 327, 1
+  size: 169, 162
+  orig: 169, 162
+  offset: 0, 0
+  index: -1
+images/bz/b0007
+  rotate: true
+  xy: 490, 1
+  size: 169, 162
+  orig: 169, 162
+  offset: 0, 0
+  index: -1
+images/bz/b0009
+  rotate: true
+  xy: 653, 1
+  size: 169, 162
+  orig: 169, 162
+  offset: 0, 0
+  index: -1
+images/bz/b0011
+  rotate: true
+  xy: 816, 1
+  size: 169, 162
+  orig: 169, 162
+  offset: 0, 0
+  index: -1

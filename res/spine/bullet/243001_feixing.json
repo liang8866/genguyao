@@ -1,0 +1,65 @@
+{
+"skeleton": { "hash": "VRxJle3VuH8da6tq99HGzVIEpdI", "spine": "2.1.01", "width": 135.53, "height": 94.33, "images": "iamges" },
+"bones": [
+	{ "name": "root", "scaleX": 0.25, "scaleY": 0.25 },
+	{ "name": "bone7", "parent": "root", "length": 64.03, "x": 25.61, "y": 19.65, "rotation": -179.62 }
+],
+"slots": [
+	{ "name": "feixing/AD00012", "bone": "bone7", "attachment": "feixing/AD0003" }
+],
+"skins": {
+	"default": {
+		"feixing/AD00012": {
+			"feixing/AD0003": { "x": 45.53, "y": 1.38, "rotation": 175.99, "width": 500, "height": 300 },
+			"feixing/AD0004": { "x": 45.53, "y": 1.38, "rotation": 175.99, "width": 500, "height": 300 },
+			"feixing/AD0005": { "x": 45.53, "y": 1.38, "rotation": 175.99, "width": 500, "height": 300 },
+			"feixing/AD0006": { "x": 45.53, "y": 1.38, "rotation": 175.99, "width": 500, "height": 300 }
+		}
+	}
+},
+"events": {
+	"callback": {}
+},
+"animations": {
+	"flight": {
+		"slots": {
+			"feixing/AD00012": {
+				"attachment": [
+					{ "time": 0, "name": "feixing/AD0003" },
+					{ "time": 0.0333, "name": "feixing/AD0004" },
+					{ "time": 0.0666, "name": "feixing/AD0005" },
+					{ "time": 0.1, "name": "feixing/AD0003" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1, "x": 1, "y": 1 }
+				]
+			},
+			"bone7": {
+				"rotate": [
+					{ "time": 0, "angle": 354.25 }
+				],
+				"translate": [
+					{ "time": 0, "x": -115.23, "y": -18.6 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

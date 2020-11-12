@@ -1,0 +1,97 @@
+
+bullet_huoqiu.png
+size: 809,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/baozha/0
+  rotate: false
+  xy: 1, 140
+  size: 110, 171
+  orig: 110, 171
+  offset: 0, 0
+  index: -1
+images/baozha/1
+  rotate: false
+  xy: 112, 140
+  size: 110, 171
+  orig: 110, 171
+  offset: 0, 0
+  index: -1
+images/baozha/2
+  rotate: false
+  xy: 223, 140
+  size: 110, 171
+  orig: 110, 171
+  offset: 0, 0
+  index: -1
+images/baozha/3
+  rotate: false
+  xy: 334, 140
+  size: 110, 171
+  orig: 110, 171
+  offset: 0, 0
+  index: -1
+images/baozha02/0
+  rotate: false
+  xy: 1, 1
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+images/baozha02/1
+  rotate: false
+  xy: 152, 1
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+images/baozha02/2
+  rotate: false
+  xy: 303, 1
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+images/baozha02/3
+  rotate: true
+  xy: 445, 161
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+images/baozha02/4
+  rotate: true
+  xy: 454, 10
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+images/baozha02/5
+  rotate: true
+  xy: 584, 161
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+images/qiu
+  rotate: false
+  xy: 723, 190
+  size: 85, 121
+  orig: 85, 121
+  offset: 0, 0
+  index: -1
+images/xf/bgfire
+  rotate: false
+  xy: 593, 32
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/xf/bgfire2
+  rotate: false
+  xy: 723, 109
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

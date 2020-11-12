@@ -1,0 +1,76 @@
+
+231301_poji_zidan.png
+size: 861,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/pj0001
+  rotate: true
+  xy: 1, 129
+  size: 214, 127
+  orig: 214, 127
+  offset: 0, 0
+  index: -1
+images/pj0002
+  rotate: false
+  xy: 1, 1
+  size: 214, 127
+  orig: 214, 127
+  offset: 0, 0
+  index: -1
+images/pj0003
+  rotate: true
+  xy: 129, 129
+  size: 214, 127
+  orig: 214, 127
+  offset: 0, 0
+  index: -1
+images/pj0004
+  rotate: false
+  xy: 216, 1
+  size: 214, 127
+  orig: 214, 127
+  offset: 0, 0
+  index: -1
+images/pj0005
+  rotate: true
+  xy: 257, 129
+  size: 214, 127
+  orig: 214, 127
+  offset: 0, 0
+  index: -1
+images/pj0006
+  rotate: true
+  xy: 385, 129
+  size: 214, 127
+  orig: 214, 127
+  offset: 0, 0
+  index: -1
+images/pj0007
+  rotate: false
+  xy: 431, 1
+  size: 214, 127
+  orig: 214, 127
+  offset: 0, 0
+  index: -1
+images/pj0008
+  rotate: true
+  xy: 513, 129
+  size: 214, 127
+  orig: 214, 127
+  offset: 0, 0
+  index: -1
+images/pj0009
+  rotate: true
+  xy: 641, 129
+  size: 214, 127
+  orig: 214, 127
+  offset: 0, 0
+  index: -1
+images/pj0010
+  rotate: false
+  xy: 646, 1
+  size: 214, 127
+  orig: 214, 127
+  offset: 0, 0
+  index: -1

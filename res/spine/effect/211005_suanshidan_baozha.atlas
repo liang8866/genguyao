@@ -1,0 +1,146 @@
+
+211005_suanshidan_baozha.png
+size: 788,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha02/00001
+  rotate: true
+  xy: 582, 1
+  size: 106, 71
+  orig: 140, 124
+  offset: 19, 4
+  index: -1
+baozha02/00002
+  rotate: false
+  xy: 467, 23
+  size: 114, 76
+  orig: 140, 124
+  offset: 14, 4
+  index: -1
+baozha02/00003
+  rotate: false
+  xy: 1, 2
+  size: 118, 83
+  orig: 140, 124
+  offset: 12, 4
+  index: -1
+baozha02/00004
+  rotate: false
+  xy: 655, 108
+  size: 124, 88
+  orig: 140, 124
+  offset: 8, 4
+  index: -1
+baozha02/00005
+  rotate: false
+  xy: 337, 2
+  size: 129, 97
+  orig: 140, 124
+  offset: 6, 4
+  index: -1
+baozha02/00006
+  rotate: false
+  xy: 367, 100
+  size: 132, 104
+  orig: 140, 124
+  offset: 4, 3
+  index: -1
+baozha02/00007
+  rotate: false
+  xy: 529, 238
+  size: 140, 115
+  orig: 140, 124
+  offset: 0, 2
+  index: -1
+baozha02/00008
+  rotate: true
+  xy: 670, 335
+  size: 140, 118
+  orig: 140, 124
+  offset: 0, 2
+  index: -1
+baozha02/00009
+  rotate: false
+  xy: 529, 354
+  size: 140, 121
+  orig: 140, 124
+  offset: 0, 0
+  index: -1
+baozha02/00010
+  rotate: true
+  xy: 670, 197
+  size: 137, 118
+  orig: 140, 124
+  offset: 2, 4
+  index: -1
+baozha02/00011
+  rotate: false
+  xy: 385, 205
+  size: 137, 121
+  orig: 140, 124
+  offset: 2, 3
+  index: -1
+baozha02/00012
+  rotate: false
+  xy: 523, 118
+  size: 131, 119
+  orig: 140, 124
+  offset: 6, 5
+  index: -1
+baozha02/00013
+  rotate: false
+  xy: 199, 1
+  size: 137, 108
+  orig: 140, 124
+  offset: 3, 14
+  index: -1
+tx/00001
+  rotate: false
+  xy: 120, 25
+  size: 57, 60
+  orig: 197, 199
+  offset: 70, 71
+  index: -1
+tx/00002
+  rotate: true
+  xy: 654, 4
+  size: 103, 107
+  orig: 197, 199
+  offset: 47, 47
+  index: -1
+tx/00003
+  rotate: false
+  xy: 385, 327
+  size: 143, 148
+  orig: 197, 199
+  offset: 27, 27
+  index: -1
+tx/00004
+  rotate: false
+  xy: 199, 110
+  size: 167, 172
+  orig: 197, 199
+  offset: 15, 13
+  index: -1
+tx/00005
+  rotate: false
+  xy: 199, 283
+  size: 185, 192
+  orig: 197, 199
+  offset: 6, 7
+  index: -1
+tx/00006
+  rotate: false
+  xy: 1, 280
+  size: 197, 195
+  orig: 197, 199
+  offset: 0, 2
+  index: -1
+tx/00007
+  rotate: false
+  xy: 1, 86
+  size: 197, 193
+  orig: 197, 199
+  offset: 0, 4
+  index: -1

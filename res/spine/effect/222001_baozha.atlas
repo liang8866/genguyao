@@ -1,0 +1,55 @@
+
+222001_baozha.png
+size: 779,754
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jineng/jinengbaozha/baodian_00024
+  rotate: false
+  xy: 1, 478
+  size: 250, 275
+  orig: 250, 275
+  offset: 0, 0
+  index: -1
+jineng/jinengbaozha/baodian_00025
+  rotate: false
+  xy: 1, 202
+  size: 250, 275
+  orig: 250, 275
+  offset: 0, 0
+  index: -1
+jineng/jinengbaozha/baodian_00026
+  rotate: true
+  xy: 252, 503
+  size: 250, 275
+  orig: 250, 275
+  offset: 0, 0
+  index: -1
+jineng/jinengbaozha/baodian_00027
+  rotate: false
+  xy: 528, 478
+  size: 250, 275
+  orig: 250, 275
+  offset: 0, 0
+  index: -1
+jineng/jinengbaozha/baodian_00028
+  rotate: true
+  xy: 252, 252
+  size: 250, 275
+  orig: 250, 275
+  offset: 0, 0
+  index: -1
+jineng/jinengbaozha/baodian_00029
+  rotate: false
+  xy: 528, 202
+  size: 250, 275
+  orig: 250, 275
+  offset: 0, 0
+  index: -1
+jineng/jinengbaozha/baodian_00030
+  rotate: true
+  xy: 252, 1
+  size: 250, 275
+  orig: 250, 275
+  offset: 0, 0
+  index: -1

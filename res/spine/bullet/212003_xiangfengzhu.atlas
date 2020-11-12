@@ -1,0 +1,34 @@
+
+212003_xiangfengzhu.png
+size: 494,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/02
+  rotate: false
+  xy: 207, 22
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+images/08
+  rotate: false
+  xy: 1, 1
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+images/feng
+  rotate: false
+  xy: 392, 62
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+images/foguang
+  rotate: false
+  xy: 392, 106
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1

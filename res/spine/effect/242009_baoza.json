@@ -1,0 +1,169 @@
+{
+"skeleton": { "hash": "UpEEEsOzyAaDhdfA65i6kV/B6r4", "spine": "2.1.01", "width": 588.51, "height": 573.12, "images": "images" },
+"bones": [
+	{ "name": "root", "scaleX": 0.25, "scaleY": 0.25 },
+	{ "name": "bone36", "parent": "root", "x": 238.2, "y": -5.65 },
+	{ "name": "bone37", "parent": "root", "x": 697.96, "scaleX": 1.098, "scaleY": 1.098 },
+	{ "name": "bone38", "parent": "root", "x": 697.96, "scaleX": 1.098, "scaleY": 1.098 },
+	{ "name": "bone39", "parent": "root", "x": 697.96, "scaleX": 1.098, "scaleY": 1.098 }
+],
+"slots": [
+	{ "name": "baodian/baodian_00024", "bone": "bone36", "attachment": "baodian/baodian_00027" },
+	{ "name": "baodian/baodian_24", "bone": "bone37", "attachment": "baodian/baodian_00026" },
+	{ "name": "baodian/baodian_25", "bone": "bone38", "attachment": "baodian/baodian_00026" },
+	{ "name": "baodian/baodian_26", "bone": "bone39", "attachment": "baodian/baodian_00026" }
+],
+"skins": {
+	"default": {
+		"baodian/baodian_00024": {
+			"baodian/baodian_00024": { "x": -190.57, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00025": { "x": -190.57, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00026": { "x": -190.57, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00027": { "x": -190.57, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00028": { "x": -190.57, "y": 4.52, "width": 459, "height": 447 }
+		},
+		"baodian/baodian_24": {
+			"baodian/baodian_00024": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00025": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00026": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00027": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00028": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 }
+		},
+		"baodian/baodian_25": {
+			"baodian/baodian_00024": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00025": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00026": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00027": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00028": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 }
+		},
+		"baodian/baodian_26": {
+			"baodian/baodian_00024": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00025": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00026": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00027": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 },
+			"baodian/baodian_00028": { "x": 0.16, "y": 4.52, "width": 459, "height": 447 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"baodian/baodian_00024": {
+				"attachment": [
+					{ "time": 0, "name": "baodian/baodian_00024" },
+					{ "time": 0.0666, "name": "baodian/baodian_00025" },
+					{ "time": 0.1333, "name": "baodian/baodian_00026" },
+					{ "time": 0.2333, "name": "baodian/baodian_00027" },
+					{ "time": 0.3666, "name": "baodian/baodian_00028" },
+					{ "time": 0.4666, "name": null }
+				]
+			},
+			"baodian/baodian_24": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "baodian/baodian_00024" },
+					{ "time": 0.5666, "name": "baodian/baodian_00025" },
+					{ "time": 0.6333, "name": "baodian/baodian_00026" },
+					{ "time": 0.7, "name": "baodian/baodian_00027" },
+					{ "time": 0.7666, "name": "baodian/baodian_00028" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"baodian/baodian_25": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "baodian/baodian_00024" },
+					{ "time": 0.2333, "name": "baodian/baodian_00025" },
+					{ "time": 0.3, "name": "baodian/baodian_00026" },
+					{ "time": 0.3666, "name": "baodian/baodian_00027" },
+					{ "time": 0.4333, "name": "baodian/baodian_00028" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"baodian/baodian_26": {
+				"attachment": [
+					{ "time": 0, "name": "baodian/baodian_00026" },
+					{ "time": 0.4, "name": "baodian/baodian_00024" },
+					{ "time": 0.4666, "name": "baodian/baodian_00025" },
+					{ "time": 0.5333, "name": "baodian/baodian_00026" },
+					{ "time": 0.6, "name": "baodian/baodian_00027" },
+					{ "time": 0.6666, "name": "baodian/baodian_00028" },
+					{ "time": 0.7333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1.0333, "x": -1, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.429, "y": 0.429 },
+					{ "time": 0.3333, "x": 0.908, "y": 0.908 }
+				]
+			},
+			"bone36": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 734.84, "y": 29.88 }
+				],
+				"scale": [
+					{ "time": 0, "x": 5, "y": 5 }
+				]
+			},
+			"bone37": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 180 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -697.96, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 2.154, "y": 2.154 },
+					{ "time": 0.8333, "x": 7.647, "y": 7.647 }
+				]
+			},
+			"bone38": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1666, "angle": -112.06 }
+				],
+				"translate": [
+					{ "time": 0, "x": -697.96, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": -697.96, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 3.576, "y": 3.576, "curve": "stepped" },
+					{ "time": 0.1666, "x": 3.576, "y": 3.576 },
+					{ "time": 0.4333, "x": 7.582, "y": 7.582 }
+				]
+			},
+			"bone39": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -697.96, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 3.576, "y": 3.576, "curve": "stepped" },
+					{ "time": 0.4, "x": 3.576, "y": 3.576 },
+					{ "time": 0.7333, "x": 6.695, "y": 6.695 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0 }
+		]
+	}
+}
+}

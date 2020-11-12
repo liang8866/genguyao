@@ -1,0 +1,730 @@
+<<<<<<< .mine
+<GameFile>
+  <PropertyGroup Name="main_back_Layer" Type="Layer" ID="ad6983af-b9a3-484d-9914-0e084074d272" Version="2.3.3.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Layer" ctype="GameLayerObjectData">
+        <Size X="1024.0000" Y="576.0000" />
+        <Children>
+          <AbstractNodeData Name="main_bg_1" ActionTag="1906871515" Tag="22" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ctype="SpriteObjectData">
+            <Size X="1024.0000" Y="576.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="512.0000" Y="288.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="0.5000" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <FileData Type="Normal" Path="ui/worldMap/worldMap_bg.png" Plist="" />
+            <BlendFunc Src="770" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_1" ActionTag="-94310357" Tag="40" IconVisible="False" LeftMargin="419.8155" RightMargin="324.1845" TopMargin="356.9524" BottomMargin="69.0476" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1024" Scale9Height="576" ctype="PanelObjectData">
+            <Size X="280.0000" Y="150.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-421821200" Tag="27" IconVisible="False" LeftMargin="-416.5811" RightMargin="-288.4189" TopMargin="-219.7812" BottomMargin="-203.2188" Scale9Width="985" Scale9Height="573" ctype="ImageViewObjectData">
+                <Size X="985.0000" Y="573.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="75.9189" Y="83.2812" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2711" Y="0.5552" />
+                <PreSize X="4.9250" Y="2.8650" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_1.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="-74529037" Tag="53" IconVisible="False" LeftMargin="77.2238" RightMargin="85.7762" TopMargin="111.1316" BottomMargin="-4.1316" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="117.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="135.7238" Y="17.3684" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4847" Y="0.1158" />
+                <PreSize X="0.4179" Y="0.2867" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="-1862175045" Tag="127" IconVisible="False" LeftMargin="109.2878" RightMargin="114.7122" TopMargin="117.2893" BottomMargin="1.7107" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="26" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="56.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="137.2878" Y="17.2107" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4903" Y="0.1147" />
+                <PreSize X="0.2000" Y="0.2067" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_1.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="559.8155" Y="144.0476" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5467" Y="0.2501" />
+            <PreSize X="0.2734" Y="0.2604" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_2" ActionTag="-1294432923" Tag="40" IconVisible="False" LeftMargin="676.5331" RightMargin="47.4669" TopMargin="37.3476" BottomMargin="238.6524" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="300.0000" Y="300.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="2003924953" Tag="41" IconVisible="False" LeftMargin="-312.5651" RightMargin="-291.4349" TopMargin="-190.2166" BottomMargin="-216.7834" Scale9Width="904" Scale9Height="707" ctype="ImageViewObjectData">
+                <Size X="904.0000" Y="707.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="139.4349" Y="136.7166" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4648" Y="0.4557" />
+                <PreSize X="3.6160" Y="2.8280" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_5.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="-269656245" Tag="57" IconVisible="False" LeftMargin="9.7401" RightMargin="147.2599" TopMargin="259.8967" BottomMargin="-2.8967" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="143.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="81.2401" Y="18.6033" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2708" Y="0.0620" />
+                <PreSize X="0.4767" Y="0.1433" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="764241736" Tag="128" IconVisible="False" LeftMargin="40.3392" RightMargin="162.6608" TopMargin="264.3671" BottomMargin="4.6329" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="67" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="97.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="88.8392" Y="20.1329" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2961" Y="0.0671" />
+                <PreSize X="0.3233" Y="0.1033" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_5.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="826.5331" Y="388.6524" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8072" Y="0.6747" />
+            <PreSize X="0.2930" Y="0.5208" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_3" ActionTag="1123427341" Tag="33" IconVisible="False" LeftMargin="769.6329" RightMargin="4.3671" TopMargin="382.7366" BottomMargin="3.2634" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="250.0000" Y="190.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" CanEdit="False" ActionTag="-1420244445" Tag="35" IconVisible="False" LeftMargin="-852.4414" RightMargin="-373.5586" TopMargin="-126.4258" BottomMargin="-107.5742" Scale9Width="1476" Scale9Height="424" ctype="ImageViewObjectData">
+                <Size X="1476.0000" Y="424.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="-114.4414" Y="104.4258" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="-0.4578" Y="0.5496" />
+                <PreSize X="5.9040" Y="2.2316" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_7.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="2081585317" Tag="59" IconVisible="False" LeftMargin="64.7039" RightMargin="68.2961" TopMargin="85.7843" BottomMargin="61.2157" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="117.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="123.2039" Y="82.7157" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4928" Y="0.4353" />
+                <PreSize X="0.4680" Y="0.2263" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="-687937500" Tag="129" IconVisible="False" LeftMargin="96.4819" RightMargin="97.5181" TopMargin="92.3232" BottomMargin="66.6768" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="26" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="56.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="124.4819" Y="82.1768" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4979" Y="0.4325" />
+                <PreSize X="0.2240" Y="0.1632" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_7.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="894.6329" Y="98.2634" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8737" Y="0.1706" />
+            <PreSize X="0.2441" Y="0.3299" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_4" ActionTag="1037153917" Tag="43" IconVisible="False" LeftMargin="348.8762" RightMargin="425.1238" TopMargin="30.8548" BottomMargin="355.1452" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="250.0000" Y="190.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-1366795961" Tag="44" IconVisible="False" LeftMargin="-375.1643" RightMargin="-263.8357" TopMargin="-188.9265" BottomMargin="-219.0735" Scale9Width="889" Scale9Height="598" ctype="ImageViewObjectData">
+                <Size X="889.0000" Y="598.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="69.3357" Y="79.9265" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2773" Y="0.4207" />
+                <PreSize X="3.5560" Y="3.1474" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_4.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="1421976037" Tag="56" IconVisible="False" LeftMargin="75.7943" RightMargin="57.2057" TopMargin="164.4086" BottomMargin="-17.4086" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="117.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="134.2943" Y="4.0914" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5372" Y="0.0215" />
+                <PreSize X="0.4680" Y="0.2263" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="1321176557" Tag="130" IconVisible="False" LeftMargin="107.7527" RightMargin="85.2473" TopMargin="170.3017" BottomMargin="-11.3017" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="27" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="57.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="136.2527" Y="4.1983" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5450" Y="0.0221" />
+                <PreSize X="0.2280" Y="0.1632" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_4.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="473.8762" Y="450.1452" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4628" Y="0.7815" />
+            <PreSize X="0.2441" Y="0.3299" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_5" ActionTag="-231411210" Tag="46" IconVisible="False" LeftMargin="240.7618" RightMargin="633.2382" TopMargin="218.3158" BottomMargin="207.6842" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="150.0000" Y="150.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-433846845" Tag="47" IconVisible="False" LeftMargin="-100.9700" RightMargin="-108.0300" TopMargin="-96.9982" BottomMargin="-78.0018" Scale9Width="359" Scale9Height="325" ctype="ImageViewObjectData">
+                <Size X="359.0000" Y="325.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="78.5300" Y="84.4982" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5235" Y="0.5633" />
+                <PreSize X="1.4360" Y="1.7105" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="1002871163" Tag="54" IconVisible="False" LeftMargin="23.3359" RightMargin="9.6641" TopMargin="92.1746" BottomMargin="14.8254" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="117.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="81.8359" Y="36.3254" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5456" Y="0.2422" />
+                <PreSize X="0.7800" Y="0.2867" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="1562158573" Tag="131" IconVisible="False" LeftMargin="42.7558" RightMargin="28.2442" TopMargin="99.7522" BottomMargin="19.2478" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="49" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="79.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="82.2558" Y="34.7478" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5484" Y="0.2317" />
+                <PreSize X="0.5267" Y="0.2067" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_2.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="315.7618" Y="282.6842" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3084" Y="0.4908" />
+            <PreSize X="0.1465" Y="0.2604" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_6" ActionTag="-1577529778" Tag="32" IconVisible="False" LeftMargin="7.0831" RightMargin="816.9169" TopMargin="317.3680" BottomMargin="38.6320" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="200.0000" Y="220.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-18504735" Tag="38" IconVisible="False" LeftMargin="-136.7007" RightMargin="-198.2993" TopMargin="-184.6945" BottomMargin="-118.3055" Scale9Width="535" Scale9Height="523" ctype="ImageViewObjectData">
+                <Size X="535.0000" Y="523.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="130.7993" Y="143.1945" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.6540" Y="0.6509" />
+                <PreSize X="2.6750" Y="2.6150" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_6.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="-1178599265" Tag="58" IconVisible="False" LeftMargin="51.7197" RightMargin="31.2803" TopMargin="154.9179" BottomMargin="22.0821" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="117.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="110.2197" Y="43.5821" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5511" Y="0.1981" />
+                <PreSize X="0.5850" Y="0.1955" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="469957999" Tag="132" IconVisible="False" LeftMargin="83.7311" RightMargin="60.2689" TopMargin="161.1356" BottomMargin="26.8644" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="26" Scale9Height="12" ctype="ImageViewObjectData">
+                <Size X="56.0000" Y="32.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="111.7311" Y="42.8644" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5587" Y="0.1948" />
+                <PreSize X="0.2800" Y="0.1455" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_6.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="107.0831" Y="148.6320" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1046" Y="0.2580" />
+            <PreSize X="0.1953" Y="0.3819" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_7" ActionTag="221087977" Tag="49" IconVisible="False" LeftMargin="66.4963" RightMargin="757.5037" TopMargin="44.6534" BottomMargin="331.3466" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="200.0000" Y="200.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-1229625784" Tag="50" IconVisible="False" LeftMargin="-90.7661" RightMargin="-96.2339" TopMargin="-100.8346" BottomMargin="-92.1654" Scale9Width="387" Scale9Height="393" ctype="ImageViewObjectData">
+                <Size X="387.0000" Y="393.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="102.7339" Y="104.3346" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5137" Y="0.5217" />
+                <PreSize X="1.5480" Y="1.5720" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_3.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="1766993584" Tag="55" IconVisible="False" LeftMargin="20.4762" RightMargin="36.5238" TopMargin="154.9804" BottomMargin="2.0196" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="143.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="91.9762" Y="23.5196" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4599" Y="0.1176" />
+                <PreSize X="0.7150" Y="0.2150" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="-322446962" Tag="133" IconVisible="False" LeftMargin="43.2936" RightMargin="59.7064" TopMargin="162.2722" BottomMargin="6.7278" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="67" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="97.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="91.7936" Y="22.2278" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4590" Y="0.1111" />
+                <PreSize X="0.4850" Y="0.1550" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_3.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="166.4963" Y="431.3466" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1626" Y="0.7489" />
+            <PreSize X="0.1953" Y="0.3472" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Image_current" ActionTag="21273774" Tag="33" IconVisible="False" LeftMargin="537.5908" RightMargin="393.4092" TopMargin="290.6445" BottomMargin="179.3555" Scale9Width="93" Scale9Height="106" ctype="ImageViewObjectData">
+            <Size X="93.0000" Y="106.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="584.0908" Y="232.3555" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5704" Y="0.4034" />
+            <PreSize X="0.0908" Y="0.1840" />
+            <FileData Type="Normal" Path="ui/worldMap/icon_next.png" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Button_back" ActionTag="-1862755935" Tag="156" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="948.3922" RightMargin="12.6078" TopMargin="19.8674" BottomMargin="501.1326" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="33" Scale9Height="33" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="63.0000" Y="55.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="979.8922" Y="528.6326" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.9569" Y="0.9178" />
+            <PreSize X="0.0615" Y="0.0955" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Normal" Path="ui/public/public_other_14.png" Plist="" />
+            <PressedFileData Type="Normal" Path="ui/public/public_other_14.png" Plist="" />
+            <NormalFileData Type="Normal" Path="ui/public/public_other_14.png" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+=======
+<GameProjectFile>
+  <PropertyGroup Type="Layer" Name="main_back_Layer" ID="ad6983af-b9a3-484d-9914-0e084074d272" Version="2.3.2.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Layer" ctype="GameLayerObjectData">
+        <Size X="1024.0000" Y="576.0000" />
+        <Children>
+          <AbstractNodeData Name="main_bg_1" ActionTag="1906871515" Tag="22" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ctype="SpriteObjectData">
+            <Size X="1024.0000" Y="576.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="512.0000" Y="288.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="0.5000" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <FileData Type="Normal" Path="ui/worldMap/worldMap_bg.png" Plist="" />
+            <BlendFunc Src="770" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_1" ActionTag="-94310357" Tag="40" IconVisible="False" LeftMargin="419.8155" RightMargin="324.1845" TopMargin="356.9524" BottomMargin="69.0476" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1024" Scale9Height="576" ctype="PanelObjectData">
+            <Size X="280.0000" Y="150.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-421821200" Tag="27" IconVisible="False" LeftMargin="-416.5811" RightMargin="-288.4189" TopMargin="-219.7812" BottomMargin="-203.2188" Scale9Width="985" Scale9Height="573" ctype="ImageViewObjectData">
+                <Size X="985.0000" Y="573.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="75.9189" Y="83.2812" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2711" Y="0.5552" />
+                <PreSize X="4.9250" Y="2.8650" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_1.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="-74529037" Tag="53" IconVisible="False" LeftMargin="77.2238" RightMargin="85.7762" TopMargin="111.1316" BottomMargin="-4.1316" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="117.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="135.7238" Y="17.3684" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4847" Y="0.1158" />
+                <PreSize X="0.4179" Y="0.2867" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="-1862175045" Tag="127" IconVisible="False" LeftMargin="109.2878" RightMargin="114.7122" TopMargin="117.2893" BottomMargin="1.7107" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="26" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="56.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="137.2878" Y="17.2107" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4903" Y="0.1147" />
+                <PreSize X="0.2000" Y="0.2067" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_1.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="559.8155" Y="144.0476" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5467" Y="0.2501" />
+            <PreSize X="0.2734" Y="0.2604" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_2" ActionTag="-1294432923" Tag="40" IconVisible="False" LeftMargin="676.5331" RightMargin="47.4669" TopMargin="37.3476" BottomMargin="238.6524" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="300.0000" Y="300.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="2003924953" Tag="41" IconVisible="False" LeftMargin="-312.5651" RightMargin="-291.4349" TopMargin="-190.2166" BottomMargin="-216.7834" Scale9Width="904" Scale9Height="707" ctype="ImageViewObjectData">
+                <Size X="904.0000" Y="707.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="139.4349" Y="136.7166" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4648" Y="0.4557" />
+                <PreSize X="3.6160" Y="2.8280" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_5.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="-269656245" Tag="57" IconVisible="False" LeftMargin="9.7401" RightMargin="147.2599" TopMargin="259.8967" BottomMargin="-2.8967" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="143.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="81.2401" Y="18.6033" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2708" Y="0.0620" />
+                <PreSize X="0.4767" Y="0.1433" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="764241736" Tag="128" IconVisible="False" LeftMargin="40.3392" RightMargin="162.6608" TopMargin="264.3671" BottomMargin="4.6329" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="67" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="97.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="88.8392" Y="20.1329" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2961" Y="0.0671" />
+                <PreSize X="0.3233" Y="0.1033" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_5.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="826.5331" Y="388.6524" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8072" Y="0.6747" />
+            <PreSize X="0.2930" Y="0.5208" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_3" ActionTag="1123427341" Tag="33" IconVisible="False" LeftMargin="769.6329" RightMargin="4.3671" TopMargin="382.7366" BottomMargin="3.2634" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="250.0000" Y="190.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" CanEdit="False" ActionTag="-1420244445" Tag="35" IconVisible="False" LeftMargin="-852.4414" RightMargin="-373.5586" TopMargin="-126.4258" BottomMargin="-107.5742" Scale9Width="1476" Scale9Height="424" ctype="ImageViewObjectData">
+                <Size X="1476.0000" Y="424.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="-114.4414" Y="104.4258" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="-0.4578" Y="0.5496" />
+                <PreSize X="5.9040" Y="2.2316" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_7.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="2081585317" Tag="59" IconVisible="False" LeftMargin="64.7039" RightMargin="68.2961" TopMargin="85.7843" BottomMargin="61.2157" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="117.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="123.2039" Y="82.7157" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4928" Y="0.4353" />
+                <PreSize X="0.4680" Y="0.2263" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="-687937500" Tag="129" IconVisible="False" LeftMargin="96.4819" RightMargin="97.5181" TopMargin="92.3232" BottomMargin="66.6768" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="26" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="56.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="124.4819" Y="82.1768" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4979" Y="0.4325" />
+                <PreSize X="0.2240" Y="0.1632" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_7.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="894.6329" Y="98.2634" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8737" Y="0.1706" />
+            <PreSize X="0.2441" Y="0.3299" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_4" ActionTag="1037153917" Tag="43" IconVisible="False" LeftMargin="348.8762" RightMargin="425.1238" TopMargin="30.8548" BottomMargin="355.1452" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="250.0000" Y="190.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-1366795961" Tag="44" IconVisible="False" LeftMargin="-375.1643" RightMargin="-263.8357" TopMargin="-188.9265" BottomMargin="-219.0735" Scale9Width="889" Scale9Height="598" ctype="ImageViewObjectData">
+                <Size X="889.0000" Y="598.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="69.3357" Y="79.9265" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2773" Y="0.4207" />
+                <PreSize X="3.5560" Y="3.1474" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_4.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="1421976037" Tag="56" IconVisible="False" LeftMargin="75.7943" RightMargin="57.2057" TopMargin="164.4086" BottomMargin="-17.4086" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="117.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="134.2943" Y="4.0914" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5372" Y="0.0215" />
+                <PreSize X="0.4680" Y="0.2263" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="1321176557" Tag="130" IconVisible="False" LeftMargin="107.7527" RightMargin="85.2473" TopMargin="170.3017" BottomMargin="-11.3017" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="27" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="57.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="136.2527" Y="4.1983" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5450" Y="0.0221" />
+                <PreSize X="0.2280" Y="0.1632" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_4.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="473.8762" Y="450.1452" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4628" Y="0.7815" />
+            <PreSize X="0.2441" Y="0.3299" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_5" ActionTag="-231411210" Tag="46" IconVisible="False" LeftMargin="240.7618" RightMargin="633.2382" TopMargin="218.3158" BottomMargin="207.6842" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="150.0000" Y="150.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-433846845" Tag="47" IconVisible="False" LeftMargin="-100.9700" RightMargin="-108.0300" TopMargin="-96.9982" BottomMargin="-78.0018" Scale9Width="359" Scale9Height="325" ctype="ImageViewObjectData">
+                <Size X="359.0000" Y="325.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="78.5300" Y="84.4982" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5235" Y="0.5633" />
+                <PreSize X="1.4360" Y="1.7105" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="1002871163" Tag="54" IconVisible="False" LeftMargin="23.3359" RightMargin="9.6641" TopMargin="92.1746" BottomMargin="14.8254" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="117.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="81.8359" Y="36.3254" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5456" Y="0.2422" />
+                <PreSize X="0.7800" Y="0.2867" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="1562158573" Tag="131" IconVisible="False" LeftMargin="42.7558" RightMargin="28.2442" TopMargin="99.7522" BottomMargin="19.2478" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="49" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="79.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="82.2558" Y="34.7478" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5484" Y="0.2317" />
+                <PreSize X="0.5267" Y="0.2067" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_2.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="315.7618" Y="282.6842" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3084" Y="0.4908" />
+            <PreSize X="0.1465" Y="0.2604" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_6" ActionTag="-1577529778" Tag="32" IconVisible="False" LeftMargin="7.0831" RightMargin="816.9169" TopMargin="317.3680" BottomMargin="38.6320" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="200.0000" Y="220.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-18504735" Tag="38" IconVisible="False" LeftMargin="-136.7007" RightMargin="-198.2993" TopMargin="-184.6945" BottomMargin="-118.3055" Scale9Width="535" Scale9Height="523" ctype="ImageViewObjectData">
+                <Size X="535.0000" Y="523.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="130.7993" Y="143.1945" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.6540" Y="0.6509" />
+                <PreSize X="2.6750" Y="2.6150" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_6.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="-1178599265" Tag="58" IconVisible="False" LeftMargin="51.7197" RightMargin="31.2803" TopMargin="154.9179" BottomMargin="22.0821" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="117.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="110.2197" Y="43.5821" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5511" Y="0.1981" />
+                <PreSize X="0.5850" Y="0.1955" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="469957999" Tag="132" IconVisible="False" LeftMargin="83.7311" RightMargin="60.2689" TopMargin="161.1356" BottomMargin="26.8644" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="26" Scale9Height="12" ctype="ImageViewObjectData">
+                <Size X="56.0000" Y="32.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="111.7311" Y="42.8644" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5587" Y="0.1948" />
+                <PreSize X="0.2800" Y="0.1455" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_6.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="107.0831" Y="148.6320" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1046" Y="0.2580" />
+            <PreSize X="0.1953" Y="0.3819" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_7" ActionTag="221087977" Tag="49" IconVisible="False" LeftMargin="66.4963" RightMargin="757.5037" TopMargin="44.6534" BottomMargin="331.3466" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="200.0000" Y="200.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-1229625784" Tag="50" IconVisible="False" LeftMargin="-90.7661" RightMargin="-96.2339" TopMargin="-100.8346" BottomMargin="-92.1654" Scale9Width="387" Scale9Height="393" ctype="ImageViewObjectData">
+                <Size X="387.0000" Y="393.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="102.7339" Y="104.3346" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5137" Y="0.5217" />
+                <PreSize X="1.5480" Y="1.5720" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_3.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text_bg" ActionTag="1766993584" Tag="55" IconVisible="False" LeftMargin="20.4762" RightMargin="36.5238" TopMargin="154.9804" BottomMargin="2.0196" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="14" BottomEage="14" Scale9OriginX="15" Scale9OriginY="14" Scale9Width="87" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="143.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="91.9762" Y="23.5196" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4599" Y="0.1176" />
+                <PreSize X="0.7150" Y="0.2150" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_bg2.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_text" ActionTag="-322446962" Tag="133" IconVisible="False" LeftMargin="43.2936" RightMargin="59.7064" TopMargin="162.2722" BottomMargin="6.7278" LeftEage="15" RightEage="15" TopEage="10" BottomEage="10" Scale9OriginX="15" Scale9OriginY="10" Scale9Width="67" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="97.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="91.7936" Y="22.2278" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4590" Y="0.1111" />
+                <PreSize X="0.4850" Y="0.1550" />
+                <FileData Type="Normal" Path="ui/worldMap/worldMap_text_3.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="166.4963" Y="431.3466" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1626" Y="0.7489" />
+            <PreSize X="0.1953" Y="0.3472" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Image_current" ActionTag="21273774" Tag="33" IconVisible="False" LeftMargin="537.5908" RightMargin="393.4092" TopMargin="290.6445" BottomMargin="179.3555" Scale9Width="93" Scale9Height="106" ctype="ImageViewObjectData">
+            <Size X="93.0000" Y="106.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="584.0908" Y="232.3555" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5704" Y="0.4034" />
+            <PreSize X="0.0908" Y="0.1840" />
+            <FileData Type="Normal" Path="ui/worldMap/icon_next.png" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Button_back" ActionTag="-1862755935" Tag="156" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="936.3922" RightMargin="0.6078" TopMargin="7.3674" BottomMargin="488.6326" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="57" Scale9Height="58" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="87.0000" Y="80.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="979.8922" Y="528.6326" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.9569" Y="0.9178" />
+            <PreSize X="0.0850" Y="0.1389" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Normal" Path="ui/public/BackPress.png" Plist="" />
+            <PressedFileData Type="Normal" Path="ui/public/BackPress.png" Plist="" />
+            <NormalFileData Type="Normal" Path="ui/public/BackNomal.png" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+>>>>>>> .r5298
+</GameFile>

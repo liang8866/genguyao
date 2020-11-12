@@ -1,0 +1,6 @@
+StaticData.Map = {
+--ID="ID",ExploreName="探索名称",ExploreImage="探索图标",Des="描述",Recommend="推荐等级",time="免费刷新间隔（毫秒）",Type="类型数量出现的上限",ShowNum="箱子与事件的出现数量",Type2="类型-数量-概率-必出次数",MonsterID="暗雷怪（从中随机选一个出来打）",BossCell="Boss出现在探索地图里的序列号",GetGoods="可能获得的物品",XiYouGoods="稀有宝物的物品",TypeIcon="类型图标",MapPath="地图路径",TackForBuild="遇到障碍物随机说的话",BeginDot="开始位置",
+[1]={ ID=1, ExploreName="唐三藏故居", ExploreImage=1001, Des="这是唐三藏居住过的地方，地处江都城外，因为久无人居，加上妖怪肆虐，已经有些荒凉了。", Recommend="1-10级", time=18000000, Type="1-8|2-1|3-0|4-2|5-0|6-0|7-5", ShowNum="1-8|2-1|8-1|9-1|10-1", Type2="8-1-1000-1|9-1-2000-2|10-1-5000-3", MonsterID="550006|550007|550008|550018", BossCell=110204, GetGoods="710001|720002|720003|720004|720005|720006", XiYouGoods="740001|740002|740003", TypeIcon="1002|1003|1004", MapPath="tmx/exploreMap_jiangdu.tmx", TackForBuild="840020|840021|840022", BeginDot="08_02"}, 
+[2]={ ID=2, ExploreName="王宫密室", ExploreImage=1001, Des="这是女儿国王宫的深处，据宫中宫女描述，夜深之时，王宫深处总会传来很奇怪的声音……", Recommend="10-15级", time=18000000, Type="1-45|2-15|3-0|4-2|5-1|6-1|7-7", ShowNum="1-10|2-7|8-2|9-2|10-1", Type2="8-2-1000-1|9-2-2000-2|10-1-5000-3", MonsterID="550009|550010", BossCell=120215, GetGoods="710001|720002|720003|720004|720005|720006", XiYouGoods="740001|740002|740003", TypeIcon="1002|1003|1004", MapPath="tmx/exploreMap_nverguo.tmx", TackForBuild="840020|840021|840022", BeginDot="18_01"}
+}
+

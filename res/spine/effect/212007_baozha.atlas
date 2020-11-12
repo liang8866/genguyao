@@ -1,0 +1,55 @@
+
+212007_baozha.png
+size: 672,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk1/baozha/fengbao031
+  rotate: true
+  xy: 1, 355
+  size: 260, 204
+  orig: 260, 204
+  offset: 0, 0
+  index: -1
+atk1/baozha/fengbao032
+  rotate: true
+  xy: 1, 94
+  size: 260, 204
+  orig: 260, 204
+  offset: 0, 0
+  index: -1
+atk1/baozha/fengbao033
+  rotate: false
+  xy: 206, 411
+  size: 260, 204
+  orig: 260, 204
+  offset: 0, 0
+  index: -1
+atk1/baozha/fengbao034
+  rotate: true
+  xy: 467, 355
+  size: 260, 204
+  orig: 260, 204
+  offset: 0, 0
+  index: -1
+atk1/baozha/fengbao035
+  rotate: false
+  xy: 206, 206
+  size: 260, 204
+  orig: 260, 204
+  offset: 0, 0
+  index: -1
+atk1/baozha/fengbao036
+  rotate: true
+  xy: 467, 94
+  size: 260, 204
+  orig: 260, 204
+  offset: 0, 0
+  index: -1
+atk1/baozha/fengbao037
+  rotate: false
+  xy: 206, 1
+  size: 260, 204
+  orig: 260, 204
+  offset: 0, 0
+  index: -1

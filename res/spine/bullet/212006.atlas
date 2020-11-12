@@ -1,0 +1,76 @@
+
+212006.png
+size: 617,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gongji/qiu/gx03
+  rotate: false
+  xy: 1, 38
+  size: 215, 177
+  orig: 215, 177
+  offset: 0, 0
+  index: -1
+images/gongji/qiu/gx05
+  rotate: false
+  xy: 1, 1
+  size: 126, 36
+  orig: 126, 36
+  offset: 0, 0
+  index: -1
+images/gongji/qiu/qiu_00024
+  rotate: false
+  xy: 217, 116
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/gongji/qiu/qiu_00031
+  rotate: false
+  xy: 217, 116
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/gongji/qiu/qiu_00025
+  rotate: false
+  xy: 317, 116
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/gongji/qiu/qiu_00026
+  rotate: false
+  xy: 417, 116
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/gongji/qiu/qiu_00027
+  rotate: false
+  xy: 517, 116
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/gongji/qiu/qiu_00028
+  rotate: false
+  xy: 217, 16
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/gongji/qiu/qiu_00029
+  rotate: false
+  xy: 317, 16
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/gongji/qiu/qiu_00030
+  rotate: false
+  xy: 417, 16
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1

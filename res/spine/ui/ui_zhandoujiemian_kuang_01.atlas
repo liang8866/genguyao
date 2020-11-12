@@ -1,0 +1,13 @@
+
+ui_zhandoujiemian_kuang_01.png
+size: 98,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ui_zhandoujiemian_kuang_01
+  rotate: false
+  xy: 1, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+211004_hejindun.png
+size: 510,761
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/001
+  rotate: false
+  xy: 86, 247
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+images/003
+  rotate: false
+  xy: 154, 263
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+images/bz/00001
+  rotate: false
+  xy: 1, 552
+  size: 230, 208
+  orig: 230, 208
+  offset: 0, 0
+  index: -1
+images/bz/00002
+  rotate: false
+  xy: 232, 552
+  size: 230, 208
+  orig: 230, 208
+  offset: 0, 0
+  index: -1
+images/bz/00003
+  rotate: false
+  xy: 1, 343
+  size: 230, 208
+  orig: 230, 208
+  offset: 0, 0
+  index: -1
+images/bz/00004
+  rotate: false
+  xy: 232, 343
+  size: 230, 208
+  orig: 230, 208
+  offset: 0, 0
+  index: -1
+images/bz/00005
+  rotate: false
+  xy: 1, 20
+  size: 230, 208
+  orig: 230, 208
+  offset: 0, 0
+  index: -1
+images/bz/00006
+  rotate: false
+  xy: 232, 134
+  size: 230, 208
+  orig: 230, 208
+  offset: 0, 0
+  index: -1
+images/bz01
+  rotate: false
+  xy: 189, 237
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+images/bz02
+  rotate: true
+  xy: 463, 143
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+images/bz03
+  rotate: true
+  xy: 467, 202
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+images/bz04
+  rotate: true
+  xy: 154, 235
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+images/gx
+  rotate: false
+  xy: 1, 230
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+images/tx/00001
+  rotate: true
+  xy: 463, 628
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00002
+  rotate: true
+  xy: 463, 495
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00003
+  rotate: true
+  xy: 463, 362
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00004
+  rotate: true
+  xy: 463, 229
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00005
+  rotate: true
+  xy: 232, 1
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00006
+  rotate: true
+  xy: 279, 1
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00007
+  rotate: true
+  xy: 326, 1
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00008
+  rotate: true
+  xy: 373, 1
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+images/tx/00009
+  rotate: true
+  xy: 420, 1
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1

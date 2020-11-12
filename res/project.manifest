@@ -1,0 +1,6 @@
+{
+	"versionUrl" : "http://192.168.0.149/RequestVersion.php",
+	"tableResUrl" : "http://192.168.0.160/RequestFile.php",
+	"downloadResUrl" : "http://192.168.0.160/RequestFile.php", 
+	"version" : "1.0.1"
+}

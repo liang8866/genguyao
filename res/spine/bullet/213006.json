@@ -1,0 +1,52 @@
+{
+"skeleton": { "hash": "hEkuaHy9BQZa6prAmbBYlPn/ank", "spine": "2.1.01", "width": 51, "height": 43, "images": "images" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 56.93, "x": -38.67 }
+],
+"slots": [
+	{ "name": "zidan", "bone": "bone", "attachment": "zidan" }
+],
+"skins": {
+	"default": {
+		"zidan": {
+			"zidan": { "x": 20.87, "y": -0.51, "width": 51, "height": 43 }
+		}
+	}
+},
+"animations": {
+	"flight": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1, "y": 1 }
+				]
+			},
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1, "y": 0.92 },
+					{ "time": 0.1666, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,293 @@
+
+411007_change.png
+size: 198,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AH
+  rotate: false
+  xy: 53, 28
+  size: 40, 75
+  orig: 40, 75
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 140, 41
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+erduo1
+  rotate: false
+  xy: 114, 165
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: false
+  xy: 184, 309
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+erduo3
+  rotate: false
+  xy: 184, 380
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+erduo4
+  rotate: false
+  xy: 184, 361
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+huidiejie
+  rotate: true
+  xy: 71, 2
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 123, 185
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 32, 1
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+qunzizhuangshi1
+  rotate: false
+  xy: 168, 11
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+qunzizhuangshi2
+  rotate: false
+  xy: 170, 160
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+shangbanshen
+  rotate: true
+  xy: 170, 192
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 114, 150
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 184, 393
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shou3
+  rotate: true
+  xy: 169, 1
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shou4
+  rotate: true
+  xy: 177, 113
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shou9
+  rotate: false
+  xy: 184, 342
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+shouzhang
+  rotate: false
+  xy: 94, 44
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+toudingzhuangshi1
+  rotate: false
+  xy: 177, 121
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+toudingzhuangshi2
+  rotate: false
+  xy: 170, 139
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 180, 40
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 123, 138
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+toufa222
+  rotate: false
+  xy: 184, 324
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 114, 113
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 138, 11
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 94, 1
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: true
+  xy: 140, 60
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+toufa7
+  rotate: true
+  xy: 1, 1
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+toufahou
+  rotate: false
+  xy: 1, 30
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+toufahou1
+  rotate: false
+  xy: 62, 106
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 138, 1
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 162, 113
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+xuli/AA0001
+  rotate: false
+  xy: 1, 332
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+xuli/AA0002
+  rotate: false
+  xy: 1, 256
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+xuli/AA0003
+  rotate: false
+  xy: 62, 332
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+xuli/AA0004
+  rotate: false
+  xy: 1, 180
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+xuli/AA0005
+  rotate: false
+  xy: 62, 256
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+xuli/AA0006
+  rotate: false
+  xy: 123, 332
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+xuli/AA0007
+  rotate: false
+  xy: 1, 104
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+xuli/AA0008
+  rotate: false
+  xy: 62, 180
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+xuli/AA0009
+  rotate: false
+  xy: 123, 256
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1

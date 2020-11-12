@@ -1,0 +1,62 @@
+
+213003_shuiqiang.png
+size: 613,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bz/bz0001
+  rotate: false
+  xy: 165, 38
+  size: 146, 133
+  orig: 169, 140
+  offset: 23, 5
+  index: -1
+images/bz/bz0003
+  rotate: false
+  xy: 467, 49
+  size: 140, 122
+  orig: 169, 140
+  offset: 15, 18
+  index: -1
+images/bz/bz0005
+  rotate: false
+  xy: 312, 46
+  size: 154, 125
+  orig: 169, 140
+  offset: 8, 9
+  index: -1
+images/bz/bz0007
+  rotate: false
+  xy: 1, 37
+  size: 163, 134
+  orig: 169, 140
+  offset: 6, 1
+  index: -1
+images/feixing/fx0001
+  rotate: false
+  xy: 467, 13
+  size: 146, 35
+  orig: 152, 37
+  offset: 5, 2
+  index: -1
+images/feixing/fx0003
+  rotate: false
+  xy: 1, 1
+  size: 150, 35
+  orig: 152, 37
+  offset: 0, 0
+  index: -1
+images/feixing/fx0005
+  rotate: false
+  xy: 152, 2
+  size: 147, 34
+  orig: 152, 37
+  offset: 3, 1
+  index: -1
+images/feixing/fx0007
+  rotate: false
+  xy: 312, 9
+  size: 148, 36
+  orig: 152, 37
+  offset: 4, 0
+  index: -1

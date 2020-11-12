@@ -1,0 +1,39 @@
+{
+"skeleton": { "hash": "tFwWu5THParQTT9fc6JiA3c7EYk", "spine": "2.1.01", "width": 109.23, "height": 151.45, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "images/440001", "bone": "root", "attachment": "images/440004" }
+],
+"skins": {
+	"default": {
+		"images/440001": {
+			"images/440004": { "y": 66.98, "width": 108, "height": 152 }
+		}
+	}
+},
+"animations": {
+	"load": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 1 },
+					{ "time": 1, "angle": 359 },
+					{ "time": 1.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6666, "x": 1, "y": 0.96 },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

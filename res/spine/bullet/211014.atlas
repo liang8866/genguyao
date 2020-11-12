@@ -1,0 +1,20 @@
+
+211014.png
+size: 113,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx/zidan01
+  rotate: true
+  xy: 88, 11
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+gx/zidan02
+  rotate: false
+  xy: 1, 1
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1

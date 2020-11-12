@@ -1,0 +1,64 @@
+{
+"skeleton": { "hash": "0EqO4rh81inOZeIpMPsG2uuo1YY", "spine": "2.1.01", "width": 571.38, "height": 481.31, "images": "images" },
+"bones": [
+	{ "name": "root", "y": -101.74, "scaleX": 0.35, "scaleY": 0.35 },
+	{ "name": "bone27", "parent": "root", "length": 411.27, "x": -1044.03, "y": -27.42, "rotation": 91.35 }
+],
+"slots": [
+	{ "name": "jineng/baozha/liuxing022", "bone": "bone27" }
+],
+"skins": {
+	"default": {
+		"jineng/baozha/liuxing022": {
+			"jineng/baozha/liuxing022": { "x": 171.53, "y": 8.41, "rotation": -91.35, "width": 336, "height": 283 },
+			"jineng/baozha/liuxing023": { "x": 171.53, "y": 8.41, "rotation": -91.35, "width": 336, "height": 283 },
+			"jineng/baozha/liuxing024": { "x": 171.53, "y": 8.41, "rotation": -91.35, "width": 336, "height": 283 },
+			"jineng/baozha/liuxing025": { "x": 171.53, "y": 8.41, "rotation": -91.35, "width": 336, "height": 283 },
+			"jineng/baozha/liuxing026": { "x": 171.53, "y": 8.41, "rotation": -91.35, "width": 336, "height": 283 },
+			"jineng/baozha/liuxing027": { "x": 171.53, "y": 8.41, "rotation": -91.35, "width": 336, "height": 283 },
+			"jineng/baozha/liuxing028": { "x": 171.53, "y": 8.41, "rotation": -91.35, "width": 336, "height": 283 },
+			"jineng/baozha/liuxing029": { "x": 171.53, "y": 8.41, "rotation": -91.35, "width": 336, "height": 283 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"jineng/baozha/liuxing022": {
+				"attachment": [
+					{ "time": 0, "name": "jineng/baozha/liuxing022" },
+					{ "time": 0.0666, "name": "jineng/baozha/liuxing023" },
+					{ "time": 0.1333, "name": "jineng/baozha/liuxing024" },
+					{ "time": 0.2, "name": "jineng/baozha/liuxing025" },
+					{ "time": 0.2666, "name": "jineng/baozha/liuxing026" },
+					{ "time": 0.3333, "name": "jineng/baozha/liuxing027" },
+					{ "time": 0.4, "name": "jineng/baozha/liuxing028" },
+					{ "time": 0.4666, "name": "jineng/baozha/liuxing029" },
+					{ "time": 0.5333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999 }
+				]
+			},
+			"bone27": {
+				"translate": [
+					{ "time": 0, "x": 1084.55, "y": -480.51 }
+				],
+				"scale": [
+					{ "time": 0, "x": 4.857, "y": 4.857 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,48 @@
+
+213008_baozha.png
+size: 268,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongji/baoza/baozha025
+  rotate: false
+  xy: 1, 90
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+gongji/baoza/baozha026
+  rotate: false
+  xy: 1, 1
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+gongji/baoza/baozha027
+  rotate: false
+  xy: 90, 90
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+gongji/baoza/baozha028
+  rotate: false
+  xy: 90, 1
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+gongji/baoza/baozha029
+  rotate: false
+  xy: 179, 90
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+gongji/baoza/baozha030
+  rotate: false
+  xy: 179, 1
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1

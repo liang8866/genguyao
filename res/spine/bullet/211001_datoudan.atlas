@@ -1,0 +1,83 @@
+
+211001_datoudan.png
+size: 882,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/01
+  rotate: true
+  xy: 831, 135
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+images/tx/00001
+  rotate: false
+  xy: 1, 104
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+images/tx/00002
+  rotate: false
+  xy: 1, 1
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+images/tx/00003
+  rotate: false
+  xy: 167, 104
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+images/tx/00004
+  rotate: false
+  xy: 167, 1
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+images/tx/00005
+  rotate: false
+  xy: 333, 104
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+images/tx/00006
+  rotate: false
+  xy: 333, 1
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+images/tx/00007
+  rotate: false
+  xy: 499, 104
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+images/tx/00008
+  rotate: false
+  xy: 499, 1
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+images/tx/00009
+  rotate: false
+  xy: 665, 104
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+images/tx/00010
+  rotate: false
+  xy: 665, 1
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1

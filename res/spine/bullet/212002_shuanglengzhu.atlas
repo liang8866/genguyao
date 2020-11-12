@@ -1,0 +1,20 @@
+
+212002_shuanglengzhu.png
+size: 182,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/feng
+  rotate: false
+  xy: 128, 72
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+images/foguang
+  rotate: false
+  xy: 1, 1
+  size: 126, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1

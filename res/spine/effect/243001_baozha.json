@@ -1,0 +1,55 @@
+{
+"skeleton": { "hash": "ePvUiPAe47M2Jh39WYyB6Mg7Z8Y", "spine": "2.1.01", "width": 249.99, "height": 249.99, "images": "iamges" },
+"bones": [
+	{ "name": "root", "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "bone8", "parent": "root", "length": 60.86, "x": -14.76, "y": 2.6, "rotation": 89.54 }
+],
+"slots": [
+	{ "name": "baozha/AF00012", "bone": "bone8", "attachment": "baozha/AF0001" }
+],
+"skins": {
+	"default": {
+		"baozha/AF00012": {
+			"baozha/AF0001": { "x": 56.57, "y": -18.57, "rotation": -89.54, "width": 500, "height": 500 },
+			"baozha/AF0002": { "rotation": -89.54, "width": 500, "height": 500 },
+			"baozha/AF0003": { "rotation": -89.54, "width": 500, "height": 500 },
+			"baozha/AF0004": { "rotation": -89.54, "width": 500, "height": 500 },
+			"baozha/AF0005": { "rotation": -89.54, "width": 500, "height": 500 },
+			"baozha/AF0006": { "rotation": -89.54, "width": 500, "height": 500 },
+			"baozha/AF0007": { "rotation": -89.54, "width": 500, "height": 500 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"baozha/AF00012": {
+				"attachment": [
+					{ "time": 0, "name": "baozha/AF0001" },
+					{ "time": 0.0333, "name": "baozha/AF0002" },
+					{ "time": 0.0666, "name": "baozha/AF0003" },
+					{ "time": 0.1333, "name": "baozha/AF0004" },
+					{ "time": 0.2, "name": "baozha/AF0005" },
+					{ "time": 0.2666, "name": "baozha/AF0006" },
+					{ "time": 0.3333, "name": "baozha/AF0007" },
+					{ "time": 0.4, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone8": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.4, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 11.03, "y": 13.5 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,55 @@
+
+AirShips_Beta_1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aerofoil_1
+  rotate: false
+  xy: 281, 263
+  size: 337, 231
+  orig: 337, 231
+  offset: 0, 0
+  index: -1
+aerofoil_2
+  rotate: true
+  xy: 2, 2
+  size: 185, 268
+  orig: 185, 268
+  offset: 0, 0
+  index: -1
+aerofoil_3
+  rotate: false
+  xy: 620, 248
+  size: 256, 246
+  orig: 256, 246
+  offset: 0, 0
+  index: -1
+aerofoil_4
+  rotate: false
+  xy: 2, 189
+  size: 277, 305
+  orig: 277, 305
+  offset: 0, 0
+  index: -1
+cannon
+  rotate: false
+  xy: 281, 106
+  size: 210, 155
+  orig: 210, 155
+  offset: 0, 0
+  index: -1
+disk
+  rotate: false
+  xy: 493, 81
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+propeller
+  rotate: false
+  xy: 878, 360
+  size: 109, 134
+  orig: 109, 134
+  offset: 0, 0
+  index: -1

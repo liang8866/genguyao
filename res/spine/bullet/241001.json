@@ -1,0 +1,49 @@
+{
+"skeleton": { "hash": "iwzeahMQL9fYOeHbrafyNiVcsGU", "spine": "2.1.01", "width": 52.01, "height": 52.01, "images": "images" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone41", "parent": "root", "length": 28, "rotation": 92.7 }
+],
+"slots": [
+	{ "name": "guangqiu/qiu", "bone": "bone41", "attachment": "guangqiu/qiu" }
+],
+"skins": {
+	"default": {
+		"guangqiu/qiu": {
+			"guangqiu/qiu": { "rotation": -92.7, "width": 52, "height": 52 }
+		}
+	}
+},
+"animations": {
+	"flight": {
+		"bones": {
+			"bone41": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": -174.96 },
+					{ "time": 0.9666, "angle": 13.36 },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -14.39, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

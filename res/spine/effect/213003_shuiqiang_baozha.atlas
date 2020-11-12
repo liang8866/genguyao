@@ -1,0 +1,97 @@
+
+213003_shuiqiang_baozha.png
+size: 776,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bz02/bz020001
+  rotate: true
+  xy: 751, 176
+  size: 38, 25
+  orig: 267, 271
+  offset: 122, 170
+  index: -1
+images/bz02/bz020002
+  rotate: false
+  xy: 665, 131
+  size: 85, 83
+  orig: 267, 271
+  offset: 98, 151
+  index: -1
+images/bz02/bz020003
+  rotate: true
+  xy: 357, 19
+  size: 132, 106
+  orig: 267, 271
+  offset: 75, 143
+  index: -1
+images/bz02/bz020005
+  rotate: false
+  xy: 188, 23
+  size: 168, 128
+  orig: 267, 271
+  offset: 61, 130
+  index: -1
+images/bz02/bz020007
+  rotate: true
+  xy: 628, 215
+  size: 171, 144
+  orig: 267, 271
+  offset: 61, 121
+  index: -1
+images/bz02/bz020009
+  rotate: false
+  xy: 1, 1
+  size: 186, 153
+  orig: 267, 271
+  offset: 52, 116
+  index: -1
+images/bz02/bz020011
+  rotate: false
+  xy: 464, 5
+  size: 200, 169
+  orig: 267, 271
+  offset: 45, 102
+  index: -1
+images/bz02/bz020013
+  rotate: true
+  xy: 446, 175
+  size: 210, 181
+  orig: 267, 271
+  offset: 37, 89
+  index: -1
+images/bz02/bz020015
+  rotate: true
+  xy: 253, 152
+  size: 224, 192
+  orig: 267, 271
+  offset: 27, 74
+  index: -1
+images/bz02/bz020017
+  rotate: false
+  xy: 524, 387
+  size: 241, 205
+  orig: 267, 271
+  offset: 15, 55
+  index: -1
+images/bz02/bz020019
+  rotate: false
+  xy: 268, 386
+  size: 255, 206
+  orig: 267, 271
+  offset: 7, 38
+  index: -1
+images/bz02/bz020021
+  rotate: false
+  xy: 1, 377
+  size: 266, 215
+  orig: 267, 271
+  offset: 0, 17
+  index: -1
+images/bz02/bz020023
+  rotate: false
+  xy: 1, 155
+  size: 251, 221
+  orig: 267, 271
+  offset: 16, 0
+  index: -1

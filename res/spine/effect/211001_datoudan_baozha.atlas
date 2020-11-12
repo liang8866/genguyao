@@ -1,0 +1,55 @@
+
+211001_datoudan_baozha.png
+size: 469,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/baozha01/00001
+  rotate: false
+  xy: 104, 34
+  size: 62, 54
+  orig: 202, 198
+  offset: 68, 79
+  index: -1
+images/baozha01/00002
+  rotate: false
+  xy: 1, 1
+  size: 102, 87
+  orig: 202, 198
+  offset: 44, 60
+  index: -1
+images/baozha01/00003
+  rotate: true
+  xy: 333, 15
+  size: 107, 103
+  orig: 202, 198
+  offset: 44, 60
+  index: -1
+images/baozha01/00004
+  rotate: true
+  xy: 371, 124
+  size: 163, 98
+  orig: 202, 198
+  offset: 11, 53
+  index: -1
+images/baozha01/00006
+  rotate: false
+  xy: 204, 4
+  size: 128, 118
+  orig: 202, 198
+  offset: 36, 52
+  index: -1
+images/baozha01/00008
+  rotate: false
+  xy: 204, 123
+  size: 166, 164
+  orig: 202, 198
+  offset: 16, 26
+  index: -1
+images/baozha01/00010
+  rotate: false
+  xy: 1, 89
+  size: 202, 198
+  orig: 202, 198
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+213006_baozha.png
+size: 805,423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pugong/baodian/baodian_0017
+  rotate: true
+  xy: 1, 202
+  size: 220, 200
+  orig: 220, 200
+  offset: 0, 0
+  index: -1
+pugong/baodian/baodian_0018
+  rotate: false
+  xy: 1, 1
+  size: 220, 200
+  orig: 220, 200
+  offset: 0, 0
+  index: -1
+pugong/baodian/baodian_0019
+  rotate: true
+  xy: 202, 202
+  size: 220, 200
+  orig: 220, 200
+  offset: 0, 0
+  index: -1
+pugong/baodian/baodian_0020
+  rotate: false
+  xy: 222, 1
+  size: 220, 200
+  orig: 220, 200
+  offset: 0, 0
+  index: -1
+pugong/baodian/baodian_0021
+  rotate: true
+  xy: 403, 202
+  size: 220, 200
+  orig: 220, 200
+  offset: 0, 0
+  index: -1
+pugong/baodian/baodian_0022
+  rotate: false
+  xy: 443, 1
+  size: 220, 200
+  orig: 220, 200
+  offset: 0, 0
+  index: -1
+pugong/baodian/baodian_0023
+  rotate: true
+  xy: 604, 202
+  size: 220, 200
+  orig: 220, 200
+  offset: 0, 0
+  index: -1

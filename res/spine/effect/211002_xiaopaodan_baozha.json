@@ -1,0 +1,52 @@
+{
+"skeleton": { "spine": "1.9.15", "hash": "sWrWYaP12dgnWhBUL1Hf+D4E70s", "width": 230, "height": 208 },
+"bones": [
+	{ "name": "root", "y": 1.47 }
+],
+"ik": [],
+"slots": [
+	{ "name": "images/baozha/00001", "bone": "root", "attachment": "images/baozha/00006" }
+],
+"skins": {
+	"default": {
+		"images/baozha/00001": {
+			"images/baozha/00001": { "y": 1.47, "width": 230, "height": 208 },
+			"images/baozha/00002": { "y": 1.47, "width": 230, "height": 208 },
+			"images/baozha/00003": { "y": 1.47, "width": 230, "height": 208 },
+			"images/baozha/00004": { "y": 1.47, "width": 230, "height": 208 },
+			"images/baozha/00005": { "y": 1.47, "width": 230, "height": 208 },
+			"images/baozha/00006": { "y": 1.47, "width": 230, "height": 208 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"images/baozha/00001": {
+				"attachment": [
+					{ "time": 0, "name": "images/baozha/00001" },
+					{ "time": 0.0333, "name": "images/baozha/00002" },
+					{ "time": 0.1, "name": "images/baozha/00003" },
+					{ "time": 0.1666, "name": "images/baozha/00004" },
+					{ "time": 0.2333, "name": "images/baozha/00005" },
+					{ "time": 0.3, "name": "images/baozha/00006" },
+					{ "time": 0.3666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.799, "y": 0.799 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,57 @@
+{
+"skeleton": { "hash": "+LTBvXa8k3PrDsRuJQtxTKKeGD4", "spine": "2.1.01", "width": 164.04, "height": 147.91, "images": "images" },
+"bones": [
+	{ "name": "root", "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "bone33", "parent": "root" }
+],
+"slots": [
+	{ "name": "baoza/baoza 1_0001", "bone": "bone33", "attachment": "baoza/baoza 1_0008" }
+],
+"skins": {
+	"default": {
+		"baoza/baoza 1_0001": {
+			"baoza/baoza 1_0001": { "width": 295, "height": 266 },
+			"baoza/baoza 1_0002": { "width": 295, "height": 266 },
+			"baoza/baoza 1_0003": { "width": 295, "height": 266 },
+			"baoza/baoza 1_0004": { "width": 295, "height": 266 },
+			"baoza/baoza 1_0005": { "width": 295, "height": 266 },
+			"baoza/baoza 1_0006": { "width": 295, "height": 266 },
+			"baoza/baoza 1_0007": { "width": 295, "height": 266 },
+			"baoza/baoza 1_0008": { "width": 295, "height": 266 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"baoza/baoza 1_0001": {
+				"attachment": [
+					{ "time": 0, "name": "baoza/baoza 1_0001" },
+					{ "time": 0.0333, "name": "baoza/baoza 1_0002" },
+					{ "time": 0.0666, "name": "baoza/baoza 1_0003" },
+					{ "time": 0.1, "name": "baoza/baoza 1_0004" },
+					{ "time": 0.1333, "name": "baoza/baoza 1_0005" },
+					{ "time": 0.1666, "name": "baoza/baoza 1_0006" },
+					{ "time": 0.2, "name": "baoza/baoza 1_0007" },
+					{ "time": 0.2333, "name": "baoza/baoza 1_0008" },
+					{ "time": 0.2666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone33": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.2666, "x": 1.897, "y": 1.897 }
+				]
+			}
+		}
+	}
+}
+}

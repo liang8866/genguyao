@@ -1,0 +1,121 @@
+<GameProjectFile>
+  <PropertyGroup Type="Layer" Name="public_yescancel_layer" ID="994e5e94-44b1-43b5-80b9-84f698d5884a" Version="2.3.2.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Layer" Tag="72" ctype="GameLayerObjectData">
+        <Size X="1024.0000" Y="576.0000" />
+        <Children>
+          <AbstractNodeData Name="Panel_root" ActionTag="1111119352" Tag="73" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="2.2871" RightMargin="-2.2871" BackColorAlpha="178" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="1024.0000" Y="576.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_bg" ActionTag="-174871707" Tag="74" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="199.0000" RightMargin="199.0000" TopMargin="159.0000" BottomMargin="159.0000" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="15" BottomEage="15" Scale9OriginX="15" Scale9OriginY="15" Scale9Width="596" Scale9Height="228" ctype="ImageViewObjectData">
+                <Size X="626.0000" Y="258.0000" />
+                <Children>
+                  <AbstractNodeData Name="Image_title" ActionTag="-3602238" Tag="17" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="286.5000" RightMargin="286.5000" TopMargin="19.0436" BottomMargin="212.9564" Scale9Width="53" Scale9Height="26" ctype="ImageViewObjectData">
+                    <Size X="53.0000" Y="26.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="313.0000" Y="225.9564" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.8758" />
+                    <PreSize X="0.0847" Y="0.1008" />
+                    <FileData Type="Normal" Path="ui/public/public_3.png" Plist="" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Text_content" ActionTag="426091441" Tag="77" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="128.0000" RightMargin="128.0000" TopMargin="88.5044" BottomMargin="149.4956" FontSize="20" LabelText="您确定花费2000铜钱扩充1个好友上限吗？" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="370.0000" Y="20.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="313.0000" Y="159.4956" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.6182" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <OutlineColor A="255" R="0" G="0" B="0" />
+                    <ShadowColor A="255" R="0" G="0" B="0" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Button_yes" ActionTag="-1015643639" Tag="75" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="114.9990" RightMargin="351.0010" TopMargin="157.8106" BottomMargin="36.1894" TouchEnable="True" FontSize="24" Scale9Width="160" Scale9Height="64" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                    <Size X="160.0000" Y="64.0000" />
+                    <Children>
+                      <AbstractNodeData Name="Text_1" ActionTag="1394529942" Tag="137" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="51.0000" RightMargin="51.0000" TopMargin="16.5000" BottomMargin="16.5000" FontSize="24" LabelText="确 定" OutlineSize="2" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="58.0000" Y="31.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="80.0000" Y="32.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.5000" Y="0.5000" />
+                        <PreSize X="0.6250" Y="0.3125" />
+                        <FontResource Type="Normal" Path="font/FangZhengJianYuan.ttf" Plist="" />
+                        <OutlineColor A="255" R="38" G="41" B="100" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="194.9990" Y="68.1894" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.3115" Y="0.2643" />
+                    <PreSize X="0.2556" Y="0.2481" />
+                    <FontResource Type="Normal" Path="font/FangZhengJianYuan.ttf" Plist="" />
+                    <TextColor A="255" R="255" G="255" B="255" />
+                    <DisabledFileData Type="Normal" Path="ui/assets/btn_ok.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="ui/assets/btn_ok.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="ui/assets/btn_ok.png" Plist="" />
+                    <OutlineColor A="255" R="0" G="0" B="0" />
+                    <ShadowColor A="255" R="0" G="0" B="0" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Button_cancel" ActionTag="80979481" Tag="76" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="354.0058" RightMargin="111.9942" TopMargin="158.8168" BottomMargin="35.1832" TouchEnable="True" FontSize="24" Scale9Enable="True" LeftEage="31" RightEage="31" TopEage="12" BottomEage="12" Scale9OriginX="31" Scale9OriginY="12" Scale9Width="98" Scale9Height="40" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                    <Size X="160.0000" Y="64.0000" />
+                    <Children>
+                      <AbstractNodeData Name="Text_2" ActionTag="-82096870" Tag="138" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="51.5000" RightMargin="51.5000" TopMargin="16.5000" BottomMargin="16.5000" FontSize="24" LabelText="取 消" OutlineSize="2" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="57.0000" Y="31.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="80.0000" Y="32.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.5000" Y="0.5000" />
+                        <PreSize X="0.6250" Y="0.3125" />
+                        <FontResource Type="Normal" Path="font/FangZhengJianYuan.ttf" Plist="" />
+                        <OutlineColor A="255" R="38" G="41" B="100" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="434.0058" Y="67.1832" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.6933" Y="0.2604" />
+                    <PreSize X="0.2556" Y="0.2481" />
+                    <FontResource Type="Normal" Path="font/FangZhengJianYuan.ttf" Plist="" />
+                    <TextColor A="255" R="255" G="255" B="255" />
+                    <DisabledFileData Type="Normal" Path="ui/assets/btn_cancel.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="ui/assets/btn_cancel.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="ui/assets/btn_cancel.png" Plist="" />
+                    <OutlineColor A="255" R="0" G="0" B="0" />
+                    <ShadowColor A="255" R="0" G="0" B="0" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="512.0000" Y="288.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="0.6113" Y="0.4479" />
+                <FileData Type="Normal" Path="ui/public/public_2.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="514.2871" Y="288.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5022" Y="0.5000" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <SingleColor A="255" R="170" G="170" B="170" />
+            <FirstColor A="255" R="170" G="170" B="170" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

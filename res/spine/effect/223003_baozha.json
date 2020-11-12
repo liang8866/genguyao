@@ -1,0 +1,60 @@
+{
+"skeleton": { "hash": "XUQvEJ83qqtn9UXnMuYXY3mNcsw", "spine": "2.1.01", "width": 387.7, "height": 403.39, "images": "images" },
+"bones": [
+	{ "name": "root", "y": -134.63, "scaleX": 0.35, "scaleY": 0.35 },
+	{ "name": "bone35", "parent": "root", "length": 503.75, "x": -1534.23, "y": -7.99, "rotation": 90.45 }
+],
+"slots": [
+	{ "name": "jineng/zhadian/zhengti_0023", "bone": "bone35" }
+],
+"skins": {
+	"default": {
+		"jineng/zhadian/zhengti_0023": {
+			"jineng/zhadian/zhengti_0023": { "x": 282.89, "y": 29.75, "rotation": -90.45, "width": 340, "height": 360 },
+			"jineng/zhadian/zhengti_0024": { "x": 282.89, "y": 29.75, "rotation": -90.45, "width": 340, "height": 360 },
+			"jineng/zhadian/zhengti_0025": { "x": 282.89, "y": 29.75, "rotation": -90.45, "width": 340, "height": 360 },
+			"jineng/zhadian/zhengti_0026": { "x": 282.89, "y": 29.75, "rotation": -90.45, "width": 340, "height": 360 },
+			"jineng/zhadian/zhengti_0027": { "x": 282.89, "y": 29.75, "rotation": -90.45, "width": 340, "height": 360 },
+			"jineng/zhadian/zhengti_0028": { "x": 282.89, "y": 29.75, "rotation": -90.45, "width": 340, "height": 360 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"jineng/zhadian/zhengti_0023": {
+				"attachment": [
+					{ "time": 0, "name": "jineng/zhadian/zhengti_0023" },
+					{ "time": 0.0333, "name": "jineng/zhadian/zhengti_0024" },
+					{ "time": 0.0666, "name": "jineng/zhadian/zhengti_0025" },
+					{ "time": 0.1, "name": "jineng/zhadian/zhengti_0026" },
+					{ "time": 0.1333, "name": "jineng/zhadian/zhengti_0027" },
+					{ "time": 0.1666, "name": "jineng/zhadian/zhengti_0028" },
+					{ "time": 0.2, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999 }
+				]
+			},
+			"bone35": {
+				"translate": [
+					{ "time": 0, "x": 1687.71, "y": -339.65 }
+				],
+				"scale": [
+					{ "time": 0, "x": 3.2, "y": 3.257 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,48 @@
+{
+"skeleton": { "hash": "TgIQ5hR2TNawxrYkIPCZ8rGLurM", "spine": "2.1.01", "width": 299.2, "height": 272, "images": "images" },
+"bones": [
+	{ "name": "root", "scaleX": 0.34, "scaleY": 0.34 },
+	{ "name": "bone35", "parent": "root", "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "pugong/baodian/baodian_00172", "bone": "bone35", "attachment": "pugong/baodian/baodian_0017" }
+],
+"skins": {
+	"default": {
+		"pugong/baodian/baodian_00172": {
+			"pugong/baodian/baodian_0017": { "x": 8.45, "y": 1.71, "width": 220, "height": 200 },
+			"pugong/baodian/baodian_0018": { "x": 8.45, "y": 1.71, "width": 220, "height": 200 },
+			"pugong/baodian/baodian_0019": { "x": 8.45, "y": 1.71, "width": 220, "height": 200 },
+			"pugong/baodian/baodian_0020": { "x": 8.45, "y": 1.71, "width": 220, "height": 200 },
+			"pugong/baodian/baodian_0021": { "x": 8.45, "y": 1.71, "width": 220, "height": 200 },
+			"pugong/baodian/baodian_0022": { "x": 8.45, "y": 1.71, "width": 220, "height": 200 },
+			"pugong/baodian/baodian_0023": { "x": 8.45, "y": 1.71, "width": 220, "height": 200 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"pugong/baodian/baodian_00172": {
+				"attachment": [
+					{ "time": 0, "name": "pugong/baodian/baodian_0017" },
+					{ "time": 0.0333, "name": "pugong/baodian/baodian_0018" },
+					{ "time": 0.0666, "name": "pugong/baodian/baodian_0019" },
+					{ "time": 0.1, "name": "pugong/baodian/baodian_0020" },
+					{ "time": 0.1333, "name": "pugong/baodian/baodian_0021" },
+					{ "time": 0.1666, "name": "pugong/baodian/baodian_0022" },
+					{ "time": 0.2, "name": "pugong/baodian/baodian_0023" },
+					{ "time": 0.2333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone35": {
+				"scale": [
+					{ "time": 0, "x": 2, "y": 2 }
+				]
+			}
+		}
+	}
+}
+}

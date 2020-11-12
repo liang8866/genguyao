@@ -1,0 +1,62 @@
+{
+"skeleton": { "hash": "d5DlU9rz5OxOCQ2iaZcIP09hPJg", "spine": "2.1.01", "width": 593.59, "height": 467.19, "images": "images" },
+"bones": [
+	{ "name": "root", "scaleX": 0.32, "scaleY": 0.32 },
+	{ "name": "bone3", "parent": "root", "length": 479.56, "x": -2479.14, "y": -340.06, "rotation": 89.54 }
+],
+"slots": [
+	{ "name": "atk1/baozha/fengbao031", "bone": "bone3" }
+],
+"skins": {
+	"default": {
+		"atk1/baozha/fengbao031": {
+			"atk1/baozha/fengbao031": { "x": 197.7, "y": 6.49, "rotation": -89.54, "width": 371, "height": 292 },
+			"atk1/baozha/fengbao032": { "x": 197.7, "y": 6.49, "rotation": -89.54, "width": 371, "height": 292 },
+			"atk1/baozha/fengbao033": { "x": 197.7, "y": 6.49, "rotation": -89.54, "width": 371, "height": 292 },
+			"atk1/baozha/fengbao034": { "x": 197.7, "y": 6.49, "rotation": -89.54, "width": 371, "height": 292 },
+			"atk1/baozha/fengbao035": { "x": 197.7, "y": 6.49, "rotation": -89.54, "width": 371, "height": 292 },
+			"atk1/baozha/fengbao036": { "x": 197.7, "y": 6.49, "rotation": -89.54, "width": 371, "height": 292 },
+			"atk1/baozha/fengbao037": { "x": 197.7, "y": 6.49, "rotation": -89.54, "width": 371, "height": 292 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"atk1/baozha/fengbao031": {
+				"attachment": [
+					{ "time": 0, "name": "atk1/baozha/fengbao031" },
+					{ "time": 0.0333, "name": "atk1/baozha/fengbao032" },
+					{ "time": 0.0666, "name": "atk1/baozha/fengbao033" },
+					{ "time": 0.1, "name": "atk1/baozha/fengbao034" },
+					{ "time": 0.1333, "name": "atk1/baozha/fengbao035" },
+					{ "time": 0.1666, "name": "atk1/baozha/fengbao036" },
+					{ "time": 0.2, "name": "atk1/baozha/fengbao037" },
+					{ "time": 0.2333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 16.99, "y": 30.99 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"bone3": {
+				"translate": [
+					{ "time": 0, "x": 2414.25, "y": -714.71 }
+				],
+				"scale": [
+					{ "time": 0, "x": 4.999, "y": 4.999 }
+				]
+			}
+		}
+	}
+}
+}

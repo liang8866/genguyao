@@ -1,0 +1,66 @@
+{
+"skeleton": { "hash": "SV1z9MWpVOA38UeRunh2oqeAvbY", "spine": "2.1.01", "width": 329.87, "height": 295.75, "images": "images" },
+"bones": [
+	{ "name": "root", "y": -164.63, "scaleX": 0.35, "scaleY": 0.35 },
+	{ "name": "bone32", "parent": "root", "length": 637.98, "x": 626.59, "y": 3.41, "rotation": 90 }
+],
+"slots": [
+	{ "name": "gongji/baozha/baoza_0019", "bone": "bone32" }
+],
+"skins": {
+	"default": {
+		"gongji/baozha/baoza_0019": {
+			"gongji/baozha/baoza_0019": { "x": 296.94, "y": 14.69, "rotation": -90, "width": 290, "height": 260 },
+			"gongji/baozha/baoza_0020": { "x": 296.94, "y": 14.69, "rotation": -90, "width": 290, "height": 260 },
+			"gongji/baozha/baoza_0021": { "x": 296.94, "y": 14.69, "rotation": -90, "width": 290, "height": 260 },
+			"gongji/baozha/baoza_0022": { "x": 296.94, "y": 14.69, "rotation": -90, "width": 290, "height": 260 },
+			"gongji/baozha/baoza_0023": { "x": 296.94, "y": 14.69, "rotation": -90, "width": 290, "height": 260 },
+			"gongji/baozha/baoza_0024": { "x": 296.94, "y": 14.69, "rotation": -90, "width": 290, "height": 260 },
+			"gongji/baozha/baoza_0025": { "x": 296.94, "y": 14.69, "rotation": -90, "width": 290, "height": 260 },
+			"gongji/baozha/baoza_0026": { "x": 296.94, "y": 14.69, "rotation": -90, "width": 290, "height": 260 },
+			"gongji/baozha/baoza_0027": { "x": 296.94, "y": 14.69, "rotation": -90, "width": 290, "height": 260 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"gongji/baozha/baoza_0019": {
+				"attachment": [
+					{ "time": 0, "name": "gongji/baozha/baoza_0019" },
+					{ "time": 0.0333, "name": "gongji/baozha/baoza_0020" },
+					{ "time": 0.0666, "name": "gongji/baozha/baoza_0021" },
+					{ "time": 0.1, "name": "gongji/baozha/baoza_0022" },
+					{ "time": 0.1333, "name": "gongji/baozha/baoza_0023" },
+					{ "time": 0.1666, "name": "gongji/baozha/baoza_0024" },
+					{ "time": 0.2, "name": "gongji/baozha/baoza_0025" },
+					{ "time": 0.2333, "name": "gongji/baozha/baoza_0026" },
+					{ "time": 0.2666, "name": "gongji/baozha/baoza_0027" },
+					{ "time": 0.3, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 1.23, "y": 11.07 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999 }
+				]
+			},
+			"bone32": {
+				"translate": [
+					{ "time": 0, "x": -606.11, "y": -457.43 }
+				],
+				"scale": [
+					{ "time": 0, "x": 3.25, "y": 3.25 }
+				]
+			}
+		}
+	}
+}
+}

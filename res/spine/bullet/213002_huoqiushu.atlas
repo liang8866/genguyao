@@ -1,0 +1,76 @@
+
+213002_huoqiushu.png
+size: 333,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/huoqiu0001
+  rotate: false
+  xy: 97, 50
+  size: 47, 93
+  orig: 60, 100
+  offset: 4, 7
+  index: -1
+images/huoqiu0002
+  rotate: false
+  xy: 145, 50
+  size: 47, 93
+  orig: 60, 100
+  offset: 4, 7
+  index: -1
+images/huoqiu0003
+  rotate: false
+  xy: 287, 57
+  size: 46, 86
+  orig: 60, 100
+  offset: 6, 6
+  index: -1
+images/huoqiu0004
+  rotate: true
+  xy: 193, 8
+  size: 46, 86
+  orig: 60, 100
+  offset: 6, 6
+  index: -1
+images/huoqiu0005
+  rotate: false
+  xy: 193, 55
+  size: 46, 88
+  orig: 60, 100
+  offset: 5, 7
+  index: -1
+images/huoqiu0006
+  rotate: false
+  xy: 240, 55
+  size: 46, 88
+  orig: 60, 100
+  offset: 5, 7
+  index: -1
+images/huoqiu0007
+  rotate: false
+  xy: 1, 49
+  size: 47, 94
+  orig: 60, 100
+  offset: 5, 6
+  index: -1
+images/huoqiu0008
+  rotate: true
+  xy: 1, 1
+  size: 47, 94
+  orig: 60, 100
+  offset: 5, 6
+  index: -1
+images/huoqiu0009
+  rotate: false
+  xy: 49, 49
+  size: 47, 94
+  orig: 60, 100
+  offset: 5, 6
+  index: -1
+images/huoqiu0010
+  rotate: true
+  xy: 96, 1
+  size: 47, 94
+  orig: 60, 100
+  offset: 5, 6
+  index: -1

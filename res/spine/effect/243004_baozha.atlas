@@ -1,0 +1,83 @@
+
+243004_baozha.png
+size: 979,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/baoz/shouji0001
+  rotate: false
+  xy: 349, 147
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+tx/baoz/shouji0002
+  rotate: false
+  xy: 349, 1
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+tx/baoz/shouji0003
+  rotate: false
+  xy: 475, 147
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+tx/baoz/shouji0004
+  rotate: false
+  xy: 475, 1
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+tx/baoz/shouji0005
+  rotate: false
+  xy: 601, 147
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+tx/baoz/shouji0006
+  rotate: false
+  xy: 601, 1
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+tx/baoz/shouji0007
+  rotate: true
+  xy: 727, 167
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+tx/baoz/shouji0008
+  rotate: false
+  xy: 727, 21
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+tx/baoz/shouji0009
+  rotate: false
+  xy: 853, 21
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+tx/foji
+  rotate: true
+  xy: 1, 29
+  size: 263, 347
+  orig: 263, 347
+  offset: 0, 0
+  index: -1
+tx/fuhao
+  rotate: false
+  xy: 873, 193
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1

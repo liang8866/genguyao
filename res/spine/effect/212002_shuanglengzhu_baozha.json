@@ -1,0 +1,81 @@
+{
+"skeleton": { "hash": "bmeARRE0b52NkhjPvQ5V/IVu0Vo", "spine": "2.1.01", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root", "y": 3.06 },
+	{ "name": "bone", "parent": "root", "length": 284, "rotation": -180 }
+],
+"slots": [
+	{ "name": "bone", "bone": "bone", "attachment": "images/baz/00015" }
+],
+"skins": {
+	"default": {
+		"bone": {
+			"images/baz/00001": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00002": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00003": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00004": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00005": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00006": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00007": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00008": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00009": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00010": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00011": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00012": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00013": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00014": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 },
+			"images/baz/00015": { "y": -3.06, "rotation": 180, "width": 227, "height": 136 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"bone": {
+				"attachment": [
+					{ "time": 0, "name": "images/baz/00001" },
+					{ "time": 0.0333, "name": "images/baz/00002" },
+					{ "time": 0.0666, "name": "images/baz/00003" },
+					{ "time": 0.1, "name": "images/baz/00004" },
+					{ "time": 0.1333, "name": "images/baz/00005" },
+					{ "time": 0.1666, "name": "images/baz/00006" },
+					{ "time": 0.2, "name": "images/baz/00007" },
+					{ "time": 0.2333, "name": "images/baz/00008" },
+					{ "time": 0.2666, "name": "images/baz/00009" },
+					{ "time": 0.3, "name": "images/baz/00010" },
+					{ "time": 0.3333, "name": "images/baz/00011" },
+					{ "time": 0.3666, "name": "images/baz/00012" },
+					{ "time": 0.4, "name": "images/baz/00013" },
+					{ "time": 0.4333, "name": "images/baz/00014" },
+					{ "time": 0.4666, "name": "images/baz/00015" },
+					{ "time": 0.5, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 20.17 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

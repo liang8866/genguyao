@@ -1,0 +1,48 @@
+
+211002_xiaopaodan_baozha.png
+size: 389,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/baozha/00001
+  rotate: true
+  xy: 293, 42
+  size: 58, 62
+  orig: 230, 208
+  offset: 86, 76
+  index: -1
+images/baozha/00002
+  rotate: true
+  xy: 196, 1
+  size: 99, 96
+  orig: 230, 208
+  offset: 55, 52
+  index: -1
+images/baozha/00003
+  rotate: true
+  xy: 232, 101
+  size: 137, 149
+  orig: 230, 208
+  offset: 33, 21
+  index: -1
+images/baozha/00004
+  rotate: true
+  xy: 232, 239
+  size: 186, 157
+  orig: 230, 208
+  offset: 20, 17
+  index: -1
+images/baozha/00005
+  rotate: true
+  xy: 1, 15
+  size: 201, 194
+  orig: 230, 208
+  offset: 21, 0
+  index: -1
+images/baozha/00006
+  rotate: false
+  xy: 1, 217
+  size: 230, 208
+  orig: 230, 208
+  offset: 0, 0
+  index: -1

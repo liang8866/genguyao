@@ -1,0 +1,55 @@
+
+213002_huoqiushu_baozha.png
+size: 642,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bz/01/AF0001
+  rotate: false
+  xy: 285, 13
+  size: 129, 110
+  orig: 200, 200
+  offset: 46, 50
+  index: -1
+images/bz/01/AF0002
+  rotate: false
+  xy: 500, 123
+  size: 142, 156
+  orig: 200, 200
+  offset: 38, 25
+  index: -1
+images/bz/01/AF0003
+  rotate: false
+  xy: 175, 127
+  size: 164, 152
+  orig: 200, 200
+  offset: 30, 37
+  index: -1
+images/bz/01/AF0004
+  rotate: false
+  xy: 340, 124
+  size: 159, 155
+  orig: 200, 200
+  offset: 22, 44
+  index: -1
+images/bz/01/AF0005
+  rotate: false
+  xy: 145, 1
+  size: 139, 125
+  orig: 200, 200
+  offset: 29, 25
+  index: -1
+images/bz/01/AF0006
+  rotate: false
+  xy: 1, 1
+  size: 143, 128
+  orig: 200, 200
+  offset: 30, 24
+  index: -1
+images/bz/01/AF0007
+  rotate: false
+  xy: 1, 130
+  size: 173, 149
+  orig: 200, 200
+  offset: 20, 11
+  index: -1

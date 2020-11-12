@@ -1,0 +1,118 @@
+
+231401_jiasu.png
+size: 209,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03
+  rotate: true
+  xy: 191, 44
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 177, 114
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 162, 48
+  size: 28, 19
+  orig: 29, 19
+  offset: 1, 0
+  index: -1
+06
+  rotate: false
+  xy: 110, 97
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+gx02
+  rotate: false
+  xy: 1, 46
+  size: 108, 96
+  orig: 108, 96
+  offset: 0, 0
+  index: -1
+gx05
+  rotate: false
+  xy: 110, 123
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+tuowei/03/1225-1
+  rotate: false
+  xy: 1, 1
+  size: 26, 44
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+tuowei/03/1225-10
+  rotate: false
+  xy: 136, 50
+  size: 25, 46
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+tuowei/03/1225-2
+  rotate: false
+  xy: 28, 1
+  size: 26, 44
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+tuowei/03/1225-3
+  rotate: false
+  xy: 55, 1
+  size: 25, 44
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+tuowei/03/1225-4
+  rotate: false
+  xy: 110, 50
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+tuowei/03/1225-5
+  rotate: false
+  xy: 81, 1
+  size: 24, 44
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+tuowei/03/1225-6
+  rotate: false
+  xy: 162, 68
+  size: 23, 45
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+tuowei/03/1225-7
+  rotate: false
+  xy: 186, 68
+  size: 23, 45
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+tuowei/03/1225-8
+  rotate: false
+  xy: 106, 1
+  size: 24, 44
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+tuowei/03/1225-9
+  rotate: false
+  xy: 131, 4
+  size: 25, 45
+  orig: 25, 46
+  offset: 0, 0
+  index: -1

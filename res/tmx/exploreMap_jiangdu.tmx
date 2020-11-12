@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="13" height="12" tilewidth="80" tileheight="80" nextobjectid="1">
+ <tileset firstgid="1" name="explore" tilewidth="80" tileheight="80">
+  <image source="explore.png" trans="ff00ff" width="1557" height="1440"/>
+ </tileset>
+ <layer name="bgLayer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJydkdEKgCAMRX0RRtkHuCT7/68sYYPDkqAeLhubZ3dqTinlH9JbC6SQhL4zI2/WG3EPTLW6BJ9ibDFGoIqcjHMl7MTYAiM2PzIdvhXMgTl+J0nPtyBzvuxPKZhu57ijoubeGnzIRM8Z4/844mraJv9L5qsu9cIJDA==
+  </data>
+ </layer>
+ <layer name="obs1Layer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJytkeEJgEAIhd2hVYsm6IcrnCs4WH9uhurgCS8xiEiQU89P33Ei32y73C9fqNbgwwyemRU9Ct5f7jEwirpid+QtMUL9SnycXjAmd91Gu+WB6ZSPuVPSXzHRaxR30ur0LtYWtREfhdbMhO00e6Z69T98l+//sBNv5StT
+  </data>
+ </layer>
+ <layer name="blockLayer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZWBgYCUDzwDiRCBeC8RlUHYilM0ApedAMbKediDeAsSqjBB1a6EYDBgh2B9ND0zdHAYsgBHBRNajARWDuQHGvgmlNRghZqLbMweLHmS7sekBmdkHpUHgDlR9Hw49SkhuxuYneTxug9mH7BdktyLryYCK+SKZDQrb30huQ9cDi8ffSGaD4gwWxyDgxEBemgFhAFsBK9s=
+  </data>
+ </layer>
+ <layer name="obs2Layer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAOKIfSyVQyjxRQikN8NhR3IInNIqAHG+iE0uV4VZEOSqhgxgsS1f8iU00HFjFyAAA5Dgj1
+  </data>
+ </layer>
+ <layer name="eventLayer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAuOE5l82gBbtHQTFqYTa59R+nhEBIBAIMGBc8=
+  </data>
+ </layer>
+ <layer name="boxLayer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAMLCRR/WYovZVCe2kJqokUQwf9SOxeLGLoYAGxDgKCUDxy2NyWDqUzscghu02fBDeAgCOJ6tEBAJc7CHc=
+  </data>
+ </layer>
+ <layer name="prisonLayer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAfYARiJiBmJkGPCBCLArEYCXrUobQmCXqwgRNAfBKIT5Gg5zaUvkuh3cMVAAD+1wSp
+  </data>
+ </layer>
+ <layer name="monsterLayer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAMCDIyMAgBsTAj6XrVyNCDDLih+kUpNIcSwE/Abh6gPC+SGkUoWxmHPjmouMIA+omWAACu6gE0
+  </data>
+ </layer>
+ <layer name="shadeLayer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAPSJCAR/UMXz2kAgCpRApR
+  </data>
+ </layer>
+ <layer name="wall1Layer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAfRCGxJwPxFCCeioU9CoYG4ANifiAWQGMjA3cg9qDADgCSowVP
+  </data>
+ </layer>
+ <layer name="wall2Layer" width="13" height="12">
+  <data encoding="base64" compression="zlib">
+   eJy9zkkNgEAMheHOARSxKmAbB2wOWFzhATGgARDAf+RAhmQgvOQ7tS+tiF0WrChRoUaD1tDZsKNDjwHjwx1HibjK8smPM/3UmS06pnjwESBEhPhm7zpPkCJDjgIax8tfTuiMDeU=
+  </data>
+ </layer>
+</map>

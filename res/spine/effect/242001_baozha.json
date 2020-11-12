@@ -1,0 +1,56 @@
+{
+"skeleton": { "hash": "IkPF4hK2rROjco3xyHac+fkQ5CQ", "spine": "2.1.01", "width": 189.99, "height": 139.99, "images": "images" },
+"bones": [
+	{ "name": "root", "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "bone41", "parent": "root", "length": 21.3, "x": -3.7, "y": 45.32, "rotation": 88.19 }
+],
+"slots": [
+	{ "name": "baozha/baozha00012", "bone": "bone41", "attachment": "baozha/baozha0001" }
+],
+"skins": {
+	"default": {
+		"baozha/baozha00012": {
+			"baozha/baozha0001": { "x": 102.33, "y": -106.04, "rotation": -88.19, "width": 380, "height": 280 },
+			"baozha/baozha0002": { "x": 102.33, "y": -106.04, "rotation": -88.19, "width": 380, "height": 280 },
+			"baozha/baozha0003": { "x": 102.33, "y": -106.04, "rotation": -88.19, "width": 380, "height": 280 },
+			"baozha/baozha0004": { "x": 102.33, "y": -106.04, "rotation": -88.19, "width": 380, "height": 280 },
+			"baozha/baozha0005": { "x": 102.33, "y": -106.04, "rotation": -88.19, "width": 380, "height": 280 },
+			"baozha/baozha0006": { "x": 102.33, "y": -106.04, "rotation": -88.19, "width": 380, "height": 280 },
+			"baozha/baozha0007": { "x": 102.33, "y": -106.04, "rotation": -88.19, "width": 380, "height": 280 },
+			"baozha/baozha0008": { "x": 102.33, "y": -106.04, "rotation": -88.19, "width": 380, "height": 280 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"baozha/baozha00012": {
+				"attachment": [
+					{ "time": 0, "name": "baozha/baozha0001" },
+					{ "time": 0.0333, "name": "baozha/baozha0002" },
+					{ "time": 0.0666, "name": "baozha/baozha0003" },
+					{ "time": 0.1, "name": "baozha/baozha0004" },
+					{ "time": 0.1333, "name": "baozha/baozha0005" },
+					{ "time": 0.1666, "name": "baozha/baozha0006" },
+					{ "time": 0.2, "name": "baozha/baozha0007" },
+					{ "time": 0.2333, "name": "baozha/baozha0008" },
+					{ "time": 0.2666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone41": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -48.5, "y": -73.81 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

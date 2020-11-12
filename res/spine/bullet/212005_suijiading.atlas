@@ -1,0 +1,13 @@
+
+212005_suijiading.png
+size: 79,25
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx01/01
+  rotate: false
+  xy: 1, 1
+  size: 78, 24
+  orig: 78, 24
+  offset: 0, 0
+  index: -1

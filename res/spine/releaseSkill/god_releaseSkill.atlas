@@ -1,0 +1,27 @@
+
+god_releaseSkill.png
+size: 1124,415
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/02/0
+  rotate: false
+  xy: 1, 215
+  size: 1122, 199
+  orig: 1122, 199
+  offset: 0, 0
+  index: -1
+images/02/05
+  rotate: false
+  xy: 680, 157
+  size: 103, 57
+  orig: 103, 57
+  offset: 0, 0
+  index: -1
+images/02/10001
+  rotate: false
+  xy: 1, 1
+  size: 678, 213
+  orig: 678, 213
+  offset: 0, 0
+  index: -1

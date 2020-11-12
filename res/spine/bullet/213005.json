@@ -1,0 +1,76 @@
+{
+"skeleton": { "hash": "VNIKyPs/yZ877M3ihj6Z0vfj1fM", "spine": "2.1.01", "width": 260.09, "height": 260.09, "images": "images" },
+"bones": [
+	{ "name": "root", "y": -109.89, "scaleX": 0.2, "scaleY": 0.2 },
+	{ "name": "bone23", "parent": "root", "length": 343.95, "x": 592.52, "y": 51.06, "rotation": 91.35 }
+],
+"slots": [
+	{ "name": "gongji/linghun/linghun013", "bone": "bone23" }
+],
+"skins": {
+	"default": {
+		"gongji/linghun/linghun013": {
+			"gongji/linghun/linghun013": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun014": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun015": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun016": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun017": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun018": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun019": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun020": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun021": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun022": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun023": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun024": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun025": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 },
+			"gongji/linghun/linghun026": { "x": 203.56, "y": -25.21, "rotation": -91.35, "width": 400, "height": 400 }
+		}
+	}
+},
+"animations": {
+	"flight": {
+		"slots": {
+			"gongji/linghun/linghun013": {
+				"attachment": [
+					{ "time": 0, "name": "gongji/linghun/linghun013" },
+					{ "time": 0.0333, "name": "gongji/linghun/linghun014" },
+					{ "time": 0.0666, "name": "gongji/linghun/linghun015" },
+					{ "time": 0.1, "name": "gongji/linghun/linghun016" },
+					{ "time": 0.1333, "name": "gongji/linghun/linghun017" },
+					{ "time": 0.1666, "name": "gongji/linghun/linghun018" },
+					{ "time": 0.2, "name": "gongji/linghun/linghun019" },
+					{ "time": 0.2333, "name": "gongji/linghun/linghun020" },
+					{ "time": 0.2666, "name": "gongji/linghun/linghun021" },
+					{ "time": 0.3, "name": "gongji/linghun/linghun022" },
+					{ "time": 0.3333, "name": "gongji/linghun/linghun023" },
+					{ "time": 0.3666, "name": "gongji/linghun/linghun024" },
+					{ "time": 0.4, "name": "gongji/linghun/linghun025" },
+					{ "time": 0.4333, "name": "gongji/linghun/linghun026" },
+					{ "time": 0.4666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 22.99 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999 }
+				]
+			},
+			"bone23": {
+				"translate": [
+					{ "time": 0, "x": -563.67, "y": -189.22 }
+				],
+				"scale": [
+					{ "time": 0, "x": 3.25, "y": 3.25 }
+				]
+			}
+		}
+	}
+}
+}

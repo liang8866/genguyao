@@ -1,0 +1,48 @@
+
+ui_shengji.png
+size: 835,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 352, 255
+  size: 458, 96
+  orig: 458, 96
+  offset: 0, 0
+  index: -1
+cb
+  rotate: false
+  xy: 352, 28
+  size: 217, 226
+  orig: 217, 226
+  offset: 0, 0
+  index: -1
+dun
+  rotate: false
+  xy: 570, 66
+  size: 181, 188
+  orig: 181, 188
+  offset: 0, 0
+  index: -1
+img_BuffAngel05
+  rotate: false
+  xy: 1, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+xx01
+  rotate: true
+  xy: 752, 30
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 752, 107
+  size: 147, 82
+  orig: 147, 82
+  offset: 0, 0
+  index: -1

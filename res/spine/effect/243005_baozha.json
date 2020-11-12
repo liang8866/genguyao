@@ -1,0 +1,74 @@
+{
+"skeleton": { "hash": "/zhKdbmIUFHxkmyGHV7WAQbBkPQ", "spine": "2.1.01", "width": 0, "height": 0, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone56", "parent": "root", "length": 23.1, "x": -0.56, "y": 15.16, "rotation": 91.36 }
+],
+"slots": [
+	{ "name": "baozha/baozha00012", "bone": "bone56", "attachment": "baozha/baozha0001" }
+],
+"skins": {
+	"default": {
+		"baozha/baozha00012": {
+			"baozha/baozha0001": { "x": -1.16, "y": 3.55, "rotation": -91.36, "width": 350, "height": 355 },
+			"baozha/baozha0002": { "x": -1.16, "y": 3.55, "rotation": -91.36, "width": 350, "height": 355 },
+			"baozha/baozha0003": { "x": -1.16, "y": 3.55, "rotation": -91.36, "width": 350, "height": 355 },
+			"baozha/baozha0004": { "x": -1.16, "y": 3.55, "rotation": -91.36, "width": 350, "height": 355 },
+			"baozha/baozha0005": { "x": -1.16, "y": 3.55, "rotation": -91.36, "width": 350, "height": 355 },
+			"baozha/baozha0006": { "x": -1.16, "y": 3.55, "rotation": -91.36, "width": 350, "height": 355 },
+			"baozha/baozha0007": { "x": -1.16, "y": 3.55, "rotation": -91.36, "width": 350, "height": 355 },
+			"baozha/baozha0008": { "x": -1.16, "y": 3.55, "rotation": -91.36, "width": 350, "height": 355 }
+		}
+	}
+},
+"events": {
+	"callback": {}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"baozha/baozha00012": {
+				"attachment": [
+					{ "time": 0, "name": "baozha/baozha0001" },
+					{ "time": 0.0333, "name": "baozha/baozha0002" },
+					{ "time": 0.0666, "name": "baozha/baozha0003" },
+					{ "time": 0.1, "name": "baozha/baozha0004" },
+					{ "time": 0.1333, "name": "baozha/baozha0005" },
+					{ "time": 0.1666, "name": "baozha/baozha0006" },
+					{ "time": 0.2, "name": "baozha/baozha0007" },
+					{ "time": 0.2333, "name": "baozha/baozha0008" },
+					{ "time": 0.2666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.2666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.515, "y": 0.515 },
+					{ "time": 0.2666, "x": 1.429, "y": 1.429 }
+				]
+			},
+			"bone56": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.2666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 1.73, "y": -18.22 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

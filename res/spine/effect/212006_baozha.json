@@ -1,0 +1,60 @@
+{
+"skeleton": { "hash": "apeuZo6SIFma/gQLeJ1Fl7/QhyM", "spine": "2.1.01", "width": 504.19, "height": 504.19, "images": "images" },
+"bones": [
+	{ "name": "root", "x": 2.09, "y": -136.36, "scaleX": 0.3, "scaleY": 0.3 },
+	{ "name": "bone14", "parent": "root", "length": 432.38, "x": 2383.96, "y": -8.74, "rotation": 91.8 }
+],
+"slots": [
+	{ "name": "gongji/gongjibaozha/baodian_00025", "bone": "bone14" }
+],
+"skins": {
+	"default": {
+		"gongji/gongjibaozha/baodian_00025": {
+			"gongji/gongjibaozha/baodian_00025": { "x": 207.22, "y": 7.24, "rotation": -91.8, "width": 480, "height": 480 },
+			"gongji/gongjibaozha/baodian_00026": { "x": 207.22, "y": 7.24, "rotation": -91.8, "width": 480, "height": 480 },
+			"gongji/gongjibaozha/baodian_00027": { "x": 207.22, "y": 7.24, "rotation": -91.8, "width": 480, "height": 480 },
+			"gongji/gongjibaozha/baodian_00028": { "x": 207.22, "y": 7.24, "rotation": -91.8, "width": 480, "height": 480 },
+			"gongji/gongjibaozha/baodian_00029": { "x": 207.22, "y": 7.24, "rotation": -91.8, "width": 480, "height": 480 },
+			"gongji/gongjibaozha/baodian_00030": { "x": 207.22, "y": 7.24, "rotation": -91.8, "width": 480, "height": 480 }
+		}
+	}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"gongji/gongjibaozha/baodian_00025": {
+				"attachment": [
+					{ "time": 0, "name": "gongji/gongjibaozha/baodian_00025" },
+					{ "time": 0.0333, "name": "gongji/gongjibaozha/baodian_00026" },
+					{ "time": 0.0666, "name": "gongji/gongjibaozha/baodian_00027" },
+					{ "time": 0.1, "name": "gongji/gongjibaozha/baodian_00028" },
+					{ "time": 0.1333, "name": "gongji/gongjibaozha/baodian_00029" },
+					{ "time": 0.1666, "name": "gongji/gongjibaozha/baodian_00030" },
+					{ "time": 0.2, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 17.31, "y": 33.05 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999 }
+				]
+			},
+			"bone14": {
+				"translate": [
+					{ "time": 0, "x": -2371.09, "y": -349.52 }
+				],
+				"scale": [
+					{ "time": 0, "x": 3.5, "y": 3.5 }
+				]
+			}
+		}
+	}
+}
+}

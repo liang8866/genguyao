@@ -1,0 +1,34 @@
+
+243001_feixing.png
+size: 305,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feixing/AD0003
+  rotate: true
+  xy: 1, 1
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1
+feixing/AD0004
+  rotate: true
+  xy: 77, 1
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1
+feixing/AD0005
+  rotate: true
+  xy: 153, 1
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1
+feixing/AD0006
+  rotate: true
+  xy: 229, 1
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1

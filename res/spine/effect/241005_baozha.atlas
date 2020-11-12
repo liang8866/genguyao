@@ -1,0 +1,34 @@
+
+241005_baozha.png
+size: 643,643
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha0001
+  rotate: false
+  xy: 1, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+baozha/baozha0002
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+baozha/baozha0003
+  rotate: false
+  xy: 322, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+baozha/baozha0004
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1

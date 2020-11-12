@@ -1,0 +1,34 @@
+
+212005_suijiading_baozha.png
+size: 197,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bz/0
+  rotate: true
+  xy: 1, 1
+  size: 95, 126
+  orig: 101, 126
+  offset: 3, 0
+  index: -1
+images/bz/1
+  rotate: false
+  xy: 1, 97
+  size: 98, 124
+  orig: 101, 126
+  offset: 0, 1
+  index: -1
+images/bz/2
+  rotate: false
+  xy: 100, 130
+  size: 97, 91
+  orig: 101, 126
+  offset: 4, 16
+  index: -1
+images/bz/3
+  rotate: false
+  xy: 128, 67
+  size: 61, 62
+  orig: 101, 126
+  offset: 19, 31
+  index: -1

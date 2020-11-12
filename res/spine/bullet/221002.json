@@ -1,0 +1,186 @@
+{
+"skeleton": { "hash": "nF8w5ZTW8b5L08C93HUU3w0j6D0", "spine": "2.1.01", "width": 1125.16, "height": 432.43, "images": "images" },
+"bones": [
+	{ "name": "root", "scaleX": 0.3, "scaleY": 0.3 },
+	{ "name": "bone14", "parent": "root", "length": 514.84, "x": 686.22, "y": 24.68, "rotation": 91.8 }
+],
+"slots": [
+	{ "name": "gongji/attackshandian016", "bone": "bone14" }
+],
+"skins": {
+	"default": {
+		"gongji/attackshandian016": {
+			"gongji/attackshandian016": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian017": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian018": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian019": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian020": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian021": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian022": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian023": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian024": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian025": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian026": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian027": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian028": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian029": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian030": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian031": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian032": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian033": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian034": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian035": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 },
+			"gongji/attackshandian036": { "x": 181.14, "y": -51.95, "rotation": -91.8, "width": 1500, "height": 576 }
+		}
+	}
+},
+"events": {
+	"callback": {}
+},
+"animations": {
+	"blast": {
+		"slots": {
+			"gongji/attackshandian016": {
+				"attachment": [
+					{ "time": 0, "name": "gongji/attackshandian030" },
+					{ "time": 0.0333, "name": "gongji/attackshandian028" },
+					{ "time": 0.0666, "name": "gongji/attackshandian026" },
+					{ "time": 0.1, "name": "gongji/attackshandian024" },
+					{ "time": 0.1333, "name": "gongji/attackshandian022" },
+					{ "time": 0.1666, "name": "gongji/attackshandian020" },
+					{ "time": 0.2, "name": "gongji/attackshandian018" },
+					{ "time": 0.2333, "name": "gongji/attackshandian016" },
+					{ "time": 0.2666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999 }
+				]
+			},
+			"bone14": {
+				"translate": [
+					{ "time": 0, "x": -713.74, "y": -517.55 }
+				],
+				"scale": [
+					{ "time": 0, "x": 2.5, "y": 2.5 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0 }
+		],
+		"events": [
+			{ "time": 0.2666, "name": "callback" }
+		]
+	},
+	"flight": {
+		"slots": {
+			"gongji/attackshandian016": {
+				"attachment": [
+					{ "time": 0, "name": "gongji/attackshandian030" },
+					{ "time": 0.0333, "name": "gongji/attackshandian031" },
+					{ "time": 0.0666, "name": "gongji/attackshandian032" },
+					{ "time": 0.1, "name": "gongji/attackshandian033" },
+					{ "time": 0.1333, "name": "gongji/attackshandian034" },
+					{ "time": 0.1666, "name": "gongji/attackshandian035" },
+					{ "time": 0.2, "name": "gongji/attackshandian036" },
+					{ "time": 0.2333, "name": "gongji/attackshandian035" },
+					{ "time": 0.2666, "name": "gongji/attackshandian034" },
+					{ "time": 0.3, "name": "gongji/attackshandian033" },
+					{ "time": 0.3333, "name": "gongji/attackshandian032" },
+					{ "time": 0.3666, "name": "gongji/attackshandian031" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999 }
+				]
+			},
+			"bone14": {
+				"translate": [
+					{ "time": 0, "x": -713.74, "y": -517.55 }
+				],
+				"scale": [
+					{ "time": 0, "x": 2.5, "y": 2.5 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0 }
+		]
+	},
+	"start": {
+		"slots": {
+			"gongji/attackshandian016": {
+				"attachment": [
+					{ "time": 0, "name": "gongji/attackshandian016" },
+					{ "time": 0.0333, "name": "gongji/attackshandian017" },
+					{ "time": 0.0666, "name": "gongji/attackshandian018" },
+					{ "time": 0.1, "name": "gongji/attackshandian019" },
+					{ "time": 0.1333, "name": "gongji/attackshandian020" },
+					{ "time": 0.1666, "name": "gongji/attackshandian021" },
+					{ "time": 0.2, "name": "gongji/attackshandian022" },
+					{ "time": 0.2333, "name": "gongji/attackshandian023" },
+					{ "time": 0.2666, "name": "gongji/attackshandian024" },
+					{ "time": 0.3, "name": "gongji/attackshandian025" },
+					{ "time": 0.3333, "name": "gongji/attackshandian026" },
+					{ "time": 0.3666, "name": "gongji/attackshandian027" },
+					{ "time": 0.4, "name": "gongji/attackshandian028" },
+					{ "time": 0.4333, "name": "gongji/attackshandian029" },
+					{ "time": 0.4666, "name": "gongji/attackshandian030" },
+					{ "time": 0.5, "name": "gongji/attackshandian031" },
+					{ "time": 0.5333, "name": "gongji/attackshandian032" },
+					{ "time": 0.5666, "name": "gongji/attackshandian033" },
+					{ "time": 0.6, "name": "gongji/attackshandian034" },
+					{ "time": 0.6333, "name": "gongji/attackshandian035" },
+					{ "time": 0.6666, "name": "gongji/attackshandian036" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999 }
+				]
+			},
+			"bone14": {
+				"translate": [
+					{ "time": 0, "x": -713.74, "y": -517.55 }
+				],
+				"scale": [
+					{ "time": 0, "x": 2.5, "y": 2.5 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0 }
+		],
+		"events": [
+			{ "time": 0.6333, "name": "callback", "int": 1 }
+		]
+	}
+}
+}

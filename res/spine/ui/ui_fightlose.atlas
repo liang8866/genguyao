@@ -1,0 +1,27 @@
+
+ui_fightlose.png
+size: 397,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 139
+  size: 378, 195
+  orig: 378, 195
+  offset: 0, 0
+  index: -1
+cb
+  rotate: true
+  xy: 271, 1
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 1, 7
+  size: 269, 131
+  orig: 269, 131
+  offset: 0, 0
+  index: -1
